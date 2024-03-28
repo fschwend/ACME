@@ -1,0 +1,1229 @@
+[
+    {
+        "_id": "7c145fea78b79cafc1df2b58a56c62c9",
+        "brand": "ACME",
+        "card_expiry": "2/2023",
+        "card_number": "4283322054583974",
+        "card_number_formatted": "4283 - 3220 - 5458 - 3974",
+        "card_sources": "https://obamacash/obamacash_2023.txthttps://t.me/ccauth/b1aba508",
+        "cvv": "273",
+        "data_last_seen": "12-02-2024",
+        "first_seen": "2023-03-01T00:00:00",
+        "is_expired": "True",
+        "last_seen": "2024-02-12T07:28:32.898780",
+        "luhn_check": true,
+        "matched_asset": 428332,
+        "member_id": 47,
+        "month": 2,
+        "source_count": 2,
+        "sources": [
+            {
+                "detection_date": "2023-03-01T00:00:00",
+                "finding_snippet": ".|VISA|CLASSIC|CREDIT|None|None|None|None|UNITED STATES|None|None|None|None\n5269290049338918|02/2023|656|LINDA BOWKER|RANDOLPH BROOKS FEDERAL CREDIT UNION|MASTERCARD|ENHANCED|DEBIT|5751 Wood oak|TX|San Antonio|78233|UNITED STATES|None|None|None|None\n4283322054583974|02/2023|273|Francesco Ciccarelli|MALAYAN BANKING BERHAD|VISA|CLASSIC|DEBIT|45-01/02, Jalan Molek 3/20Taman Molek Johor Bahru, Johor.|JO|Johor Bahru|81100|MALAYSIA|None|None|None|3479603101\n4895920323674936|09/2023|141|None|CHINA CONSTRUCTION BANK CO",
+                "source": "obamacash",
+                "source_uri": "https://obamacash/obamacash_2023.txt",
+                "total_leak_count": 2135302,
+                "total_leak_count_for_org": 14
+            },
+            {
+                "detection_date": "2024-02-12T07:28:32.898780",
+                "finding_snippet": "A.S.\nCard Type Credit\nProduct Type World MasterCard® Black Edition\nCountry TR\nTo scrape this channel use @TruSRC_Bot\nMade by N I C O and PARSEC ^_^ ❤️\n2024-02-10T16:44:54 CCAUTH wrote: MADE BY NICO AND PARSEC Join @Test123ND\n✅LIVE CC SCRAPPED (AUTH) 4283322054583974|02|23|273 ✔️\nResponse: Approved\nScheme <scheme>\nBIN <bin>\nBank <bank>\nCard Type <card_type>\nProduct Type <product_type>\nCountry <issuer_country>\nTo scrape this channel use @TruSRC_Bot\nMade by N I C O and PARSEC ^_^ ❤️\n2024-02-10T16:44:55 CCAUTH wrot",
+                "source": "deutschepost",
+                "source_uri": "https://t.me/ccauth/b1aba508",
+                "total_leak_count": 25,
+                "total_leak_count_for_org": 1
+            }
+        ],
+        "unique_source_uri": [
+            "https://obamacash/obamacash_2023.txt",
+            "https://t.me/ccauth/b1aba508"
+        ],
+        "year": 2023
+    },
+    {
+        "_id": "b173b329675835983f0b40e15faddeb7",
+        "brand": "ACME",
+        "card_expiry": "2/2023",
+        "card_number": "5239450335671227",
+        "card_number_formatted": "5239 - 4503 - 3567 - 1227",
+        "card_sources": "https://obamacash/obamacash_2023.txthttps://t.me/ccauth/576c7b9d",
+        "cvv": "201",
+        "data_last_seen": "12-02-2024",
+        "first_seen": "2023-03-01T00:00:00",
+        "is_expired": "True",
+        "last_seen": "2024-02-12T07:28:31.515155",
+        "luhn_check": true,
+        "matched_asset": 523945,
+        "member_id": 47,
+        "month": 2,
+        "source_count": 2,
+        "sources": [
+            {
+                "detection_date": "2023-03-01T00:00:00",
+                "finding_snippet": "HANCED|DEBIT|9433 Ottawa House Drive|MI|West Olive|49460|UNITED STATES|None|None|None|6164024822\n5466160437187295|05/2023|214|Lucas Turano|CITIBANK N.A.|MASTERCARD|WORLD|CREDIT|709 7th St|PA|Milford|18337-6526|UNITED STATES|None|None|None|5704700572\n5239450335671227|02/2023|201|LEE KOK WAI|MALAYAN BANKING BERHAD|MASTERCARD|PLATINUM|CREDIT|None|None|None|None|MALAYSIA|None|None|None|None\n4447962591839596|07/2023|069|Linda Floyd|CREDIT ONE BANK, N.A.|VISA|CLASSIC|CREDIT|857 oak street None|OH|Elyria|44035|UNITED ",
+                "source": "obamacash",
+                "source_uri": "https://obamacash/obamacash_2023.txt",
+                "total_leak_count": 2135302,
+                "total_leak_count_for_org": 11
+            },
+            {
+                "detection_date": "2024-02-12T07:28:31.515155",
+                "finding_snippet": "ES LIMITED\nCard Type Credit\nProduct Type Standard MasterCard® Card\nCountry GB\nTo scrape this channel use @TruSRC_Bot\nMade by N I C O and PARSEC ^_^ ❤️\n2024-02-11T03:20:50 CCAUTH wrote: MADE BY NICO AND PARSEC Join @Test123ND\n✅LIVE CC SCRAPPED (AUTH) 5239450335671227|02|23|201 ✔️\nResponse: Approved\nScheme <scheme>\nBIN <bin>\nBank <bank>\nCard Type <card_type>\nProduct Type <product_type>\nCountry <issuer_country>\nTo scrape this channel use @TruSRC_Bot\nMade by N I C O and PARSEC ^_^ ❤️",
+                "source": "deutschepost",
+                "source_uri": "https://t.me/ccauth/576c7b9d",
+                "total_leak_count": 25,
+                "total_leak_count_for_org": 1
+            }
+        ],
+        "unique_source_uri": [
+            "https://obamacash/obamacash_2023.txt",
+            "https://t.me/ccauth/576c7b9d"
+        ],
+        "year": 2023
+    },
+    {
+        "_id": "1041958628e40cc8b5148a0aed384fa2",
+        "brand": "ACME",
+        "card_expiry": "2/2023",
+        "card_number": "4966230338813139",
+        "card_number_formatted": "4966 - 2303 - 3881 - 3139",
+        "card_sources": "https://obamacash/obamacash_2023.txthttps://t.me/ccauth/bcecf26d",
+        "cvv": "445",
+        "data_last_seen": "12-02-2024",
+        "first_seen": "2023-03-01T00:00:00",
+        "is_expired": "True",
+        "last_seen": "2024-02-12T07:28:26.478919",
+        "luhn_check": true,
+        "matched_asset": 496623,
+        "member_id": 47,
+        "month": 2,
+        "source_count": 2,
+        "sources": [
+            {
+                "detection_date": "2023-03-01T00:00:00",
+                "finding_snippet": "ster|04260|UNITED STATES|None|None|weathington26@gmail.com|None\n4723670000446003|03/2023|None|None|PERU FEDERAL SAVINGS BANK|VISA|CLASSIC|DEBIT|None|NO|None|None|UNITED STATES|None|None|None|None\n4147203159206487|02/28|466\n4830304504042031|08/27|936\n4966230338813139|02/2023|445|SIM KANG LIANG|MALAYAN BANKING BERHAD|VISA|GOLD|CREDIT|None|None|None|None|MALAYSIA|None|None|None|None\n5400470851028860|10/2023|631|Giancarlo Brigida|BANCO BPM SOCIETA PER AZIONI|MASTERCARD|PREPAID|DEBIT|Via Francesco Petrarca, 64|FO|Ma",
+                "source": "obamacash",
+                "source_uri": "https://obamacash/obamacash_2023.txt",
+                "total_leak_count": 2135302,
+                "total_leak_count_for_org": 14
+            },
+            {
+                "detection_date": "2024-02-12T07:28:26.478919",
+                "finding_snippet": "IN 377162\nBank <bank>\nCard Type Credit\nProduct Type <product_type>\nCountry ZA\nTo scrape this channel use @TruSRC_Bot\nMade by N I C O and PARSEC ^_^ ❤️\n2024-02-09T21:04:34 CCAUTH wrote: MADE BY NICO AND PARSEC Join @Test123ND\n✅LIVE CC SCRAPPED (AUTH) 4966230338813139|02|23|445 ✔️\nResponse: Approved\nScheme <scheme>\nBIN <bin>\nBank <bank>\nCard Type <card_type>\nProduct Type <product_type>\nCountry <issuer_country>\nTo scrape this channel use @TruSRC_Bot\nMade by N I C O and PARSEC ^_^ ❤️\n2024-02-09T21:04:40 CCAUTH wrot",
+                "source": "deutschepost",
+                "source_uri": "https://t.me/ccauth/bcecf26d",
+                "total_leak_count": 25,
+                "total_leak_count_for_org": 1
+            }
+        ],
+        "unique_source_uri": [
+            "https://obamacash/obamacash_2023.txt",
+            "https://t.me/ccauth/bcecf26d"
+        ],
+        "year": 2023
+    },
+    {
+        "_id": "7034cc178d8fa4c01c3ff1ad884e6d2c",
+        "brand": "ACME",
+        "card_expiry": "2/2023",
+        "card_number": "4632252020166935",
+        "card_number_formatted": "4632 - 2520 - 2016 - 6935",
+        "card_sources": "https://obamacash/obamacash_2023.txthttps://t.me/ccauth/11b16f13https://t.me/ccauth/92f9fe91",
+        "cvv": "252",
+        "data_last_seen": "09-02-2024",
+        "first_seen": "2023-03-01T00:00:00",
+        "is_expired": "True",
+        "last_seen": "2024-02-09T07:29:48.781340",
+        "luhn_check": true,
+        "matched_asset": 463225,
+        "member_id": 47,
+        "month": 2,
+        "source_count": 3,
+        "sources": [
+            {
+                "detection_date": "2023-03-01T00:00:00",
+                "finding_snippet": "STATES|None|None|None|None\n5495547037182111|08/24|503\n5490994843133794|10/2023|990|Scott Green|BANK OF AMERICA, N.A.|MASTERCARD|PLATINUM|CREDIT|835 Carter Route OO|MO|Ellsinore|63937|UNITED STATES|None|None|None|2705762757\n4152313593585909|10/24|484\n4632252020166935|02/2023|252|MASYITOH SAAD|MALAYAN BANKING BERHAD|VISA|PLATINUM|DEBIT|NO. 39, LORONG PUYU 1|KD|Alor Setar|05150|MALAYSIA|None|None|masyitoh_saad@yahoo.com|0125874718\n4766841278931590|05/2023|177|Jaydy Ramirez|BANCO NACIONAL DE MEXICO, S.A.|VISA|CLASS",
+                "source": "obamacash",
+                "source_uri": "https://obamacash/obamacash_2023.txt",
+                "total_leak_count": 2135302,
+                "total_leak_count_for_org": 20
+            },
+            {
+                "detection_date": "2024-02-09T07:29:21.390926",
+                "finding_snippet": "k>\nCard Type <card_type>\nProduct Type <product_type>\nCountry <issuer_country>\nTo scrape this channel use @TruSRC_Bot\nMade by N I C O and PARSEC ^_^ ❤️\n2024-02-07T03:09:13 CCAUTH wrote: MADE BY NICO AND PARSEC Join @Test123ND\n✅LIVE CC SCRAPPED (AUTH) 4632252020166935|02|23|252 ✔️\nResponse: Approved\nScheme <scheme>\nBIN <bin>\nBank <bank>\nCard Type <card_type>\nProduct Type <product_type>\nCountry <issuer_country>\nTo scrape this channel use @TruSRC_Bot\nMade by N I C O and PARSEC ^_^ ❤️\n2024-02-07T03:09:17 CCAUTH wrot",
+                "source": "deutschepost",
+                "source_uri": "https://t.me/ccauth/11b16f13",
+                "total_leak_count": 25,
+                "total_leak_count_for_org": 1
+            },
+            {
+                "detection_date": "2024-02-09T07:29:48.781340",
+                "finding_snippet": "k>\nCard Type <card_type>\nProduct Type <product_type>\nCountry <issuer_country>\nTo scrape this channel use @TruSRC_Bot\nMade by N I C O and PARSEC ^_^ ❤️\n2024-02-07T03:09:13 CCAUTH wrote: MADE BY NICO AND PARSEC Join @Test123ND\n✅LIVE CC SCRAPPED (AUTH) 4632252020166935|02|23|252 ✔️\nResponse: Approved\nScheme <scheme>\nBIN <bin>\nBank <bank>\nCard Type <card_type>\nProduct Type <product_type>\nCountry <issuer_country>\nTo scrape this channel use @TruSRC_Bot\nMade by N I C O and PARSEC ^_^ ❤️\n2024-02-07T03:09:17 CCAUTH wrot",
+                "source": "deutschepost",
+                "source_uri": "https://t.me/ccauth/92f9fe91",
+                "total_leak_count": 25,
+                "total_leak_count_for_org": 1
+            }
+        ],
+        "unique_source_uri": [
+            "https://obamacash/obamacash_2023.txt",
+            "https://t.me/ccauth/11b16f13",
+            "https://t.me/ccauth/92f9fe91"
+        ],
+        "year": 2023
+    },
+    {
+        "_id": "62219e23c0b8a3bb88d969a5472c834c",
+        "brand": "ACME",
+        "card_expiry": "12/2021",
+        "card_number": "4365000035340828",
+        "card_number_formatted": "4365 - 0000 - 3534 - 0828",
+        "card_sources": "https://t.me/ccauth/cb220348",
+        "cvv": "665",
+        "data_last_seen": "09-02-2024",
+        "first_seen": "2024-02-09T07:29:46.664998",
+        "is_expired": "True",
+        "last_seen": "2024-02-09T07:29:46.664998",
+        "luhn_check": true,
+        "matched_asset": "436500",
+        "member_id": 47,
+        "month": 12,
+        "source_count": 1,
+        "sources": [
+            {
+                "detection_date": "2024-02-09T07:29:46.664998",
+                "finding_snippet": "k>\nCard Type <card_type>\nProduct Type <product_type>\nCountry <issuer_country>\nTo scrape this channel use @TruSRC_Bot\nMade by N I C O and PARSEC ^_^ ❤️\n2024-02-08T04:55:19 CCAUTH wrote: MADE BY NICO AND PARSEC Join @Test123ND\n✅LIVE CC SCRAPPED (AUTH) 4365000035340828|12|21|665 ✔️\nResponse: Approved\nScheme <scheme>\nBIN <bin>\nBank <bank>\nCard Type <card_type>\nProduct Type <product_type>\nCountry <issuer_country>\nTo scrape this channel use @TruSRC_Bot\nMade by N I C O and PARSEC ^_^ ❤️\n2024-02-08T04:55:24 CCAUTH wrot",
+                "source": "deutschepost",
+                "source_uri": "https://t.me/ccauth/cb220348",
+                "total_leak_count": 24,
+                "total_leak_count_for_org": 1
+            }
+        ],
+        "unique_source_uri": [
+            "https://t.me/ccauth/cb220348"
+        ],
+        "year": 2021
+    },
+    {
+        "_id": "4af9b865bf23ddfcd801ed71060320b8",
+        "brand": "ACME",
+        "card_expiry": "2/2023",
+        "card_number": "4966230338316638",
+        "card_number_formatted": "4966 - 2303 - 3831 - 6638",
+        "card_sources": "https://obamacash/obamacash_2023.txthttps://t.me/ccauth/b8f91c31",
+        "cvv": "766",
+        "data_last_seen": "09-02-2024",
+        "first_seen": "2023-03-01T00:00:00",
+        "is_expired": "True",
+        "last_seen": "2024-02-09T07:29:21.082994",
+        "luhn_check": true,
+        "matched_asset": 496623,
+        "member_id": 47,
+        "month": 2,
+        "source_count": 2,
+        "sources": [
+            {
+                "detection_date": "2023-03-01T00:00:00",
+                "finding_snippet": "8011|06/25|509\n5536293662661357|12/29|530\n5448324208953235|05/29|799\n5342070205916082|12/2023|230|Lucrezia.Antonacci|INTESA SANPAOLO SPA|MASTERCARD|PREPAID|DEBIT|Via Dimiccoli 28|AG|Barletta|76121|ITALY|None|None|None|None\n5496360008062059|05/25|269\n4966230338316638|02/2023|766|Robert Huskey|MALAYAN BANKING BERHAD|VISA|GOLD|CREDIT|4085 Shinn Street 123456|NY|New York|10021|MALAYSIA|None|None|shad1979@yahoo.com|9173024459\n4475055761824145|10/2023|090|ali tekin|TURKIYE HALK BANKASI, A.S.|VISA|ELECTRON|DEBIT|None|",
+                "source": "obamacash",
+                "source_uri": "https://obamacash/obamacash_2023.txt",
+                "total_leak_count": 2135302,
+                "total_leak_count_for_org": 20
+            },
+            {
+                "detection_date": "2024-02-09T07:29:21.082994",
+                "finding_snippet": "IN 414740\nBank <bank>\nCard Type Credit\nProduct Type <product_type>\nCountry US\nTo scrape this channel use @TruSRC_Bot\nMade by N I C O and PARSEC ^_^ ❤️\n2024-02-06T20:29:16 CCAUTH wrote: MADE BY NICO AND PARSEC Join @Test123ND\n✅LIVE CC SCRAPPED (AUTH) 4966230338316638|02|23|766 ✔️\nResponse: Approved\nScheme <scheme>\nBIN <bin>\nBank <bank>\nCard Type <card_type>\nProduct Type <product_type>\nCountry <issuer_country>\nTo scrape this channel use @TruSRC_Bot\nMade by N I C O and PARSEC ^_^ ❤️\n2024-02-06T20:29:21 CCAUTH wrot",
+                "source": "deutschepost",
+                "source_uri": "https://t.me/ccauth/b8f91c31",
+                "total_leak_count": 25,
+                "total_leak_count_for_org": 1
+            }
+        ],
+        "unique_source_uri": [
+            "https://obamacash/obamacash_2023.txt",
+            "https://t.me/ccauth/b8f91c31"
+        ],
+        "year": 2023
+    },
+    {
+        "_id": "27cc864bc1f69ffb7a93a692bf9fc71f",
+        "brand": "ACME",
+        "card_expiry": "2/2023",
+        "card_number": "4283322055036105",
+        "card_number_formatted": "4283 - 3220 - 5503 - 6105",
+        "card_sources": "https://obamacash/obamacash_2023.txthttps://t.me/ccauth/ed381c4b",
+        "cvv": "884",
+        "data_last_seen": "09-02-2024",
+        "first_seen": "2023-03-01T00:00:00",
+        "is_expired": "True",
+        "last_seen": "2024-02-09T07:29:12.756661",
+        "luhn_check": true,
+        "matched_asset": 428332,
+        "member_id": 47,
+        "month": 2,
+        "source_count": 2,
+        "sources": [
+            {
+                "detection_date": "2023-03-01T00:00:00",
+                "finding_snippet": "ina daloia|VISIONS F.C.U.|VISA|CLASSIC|DEBIT|73 continental road|NJ|West Milford|07480|UNITED STATES|None|None|None|None\n6226231119549885|05/2023|496|None|CHINA MINSHENG BANK|CHINA UNION PAY|CLASSIC|CREDIT|None|NO|None|None|CHINA|None|None|None|None\n4283322055036105|02/2023|884|Angela Kleinman|MALAYAN BANKING BERHAD|VISA|CLASSIC|DEBIT|14 Jalan 10, Taman Lenseng,Cheras|None|Kuala Lumpur|56000|MALAYSIA|None|None|None|None\n5326784159806327|09/27|848\n5218531015725584|10/2023|798|Kelly Gannon|SYNCHRONY BANK|MASTERCA",
+                "source": "obamacash",
+                "source_uri": "https://obamacash/obamacash_2023.txt",
+                "total_leak_count": 2135302,
+                "total_leak_count_for_org": 20
+            },
+            {
+                "detection_date": "2024-02-09T07:29:12.756661",
+                "finding_snippet": "k>\nCard Type <card_type>\nProduct Type <product_type>\nCountry <issuer_country>\nTo scrape this channel use @TruSRC_Bot\nMade by N I C O and PARSEC ^_^ ❤️\n2024-02-08T10:38:12 CCAUTH wrote: MADE BY NICO AND PARSEC Join @Test123ND\n✅LIVE CC SCRAPPED (AUTH) 4283322055036105|02|23|884 ✔️\nResponse: Approved\nScheme <scheme>\nBIN <bin>\nBank <bank>\nCard Type <card_type>\nProduct Type <product_type>\nCountry <issuer_country>\nTo scrape this channel use @TruSRC_Bot\nMade by N I C O and PARSEC ^_^ ❤️\n2024-02-08T10:38:14 CCAUTH wrot",
+                "source": "deutschepost",
+                "source_uri": "https://t.me/ccauth/ed381c4b",
+                "total_leak_count": 25,
+                "total_leak_count_for_org": 1
+            }
+        ],
+        "unique_source_uri": [
+            "https://obamacash/obamacash_2023.txt",
+            "https://t.me/ccauth/ed381c4b"
+        ],
+        "year": 2023
+    },
+    {
+        "_id": "324dac43c9ce9124f9c3ad3d7f0af208",
+        "brand": "ACME",
+        "card_expiry": "2/2023",
+        "card_number": "5460150030994334",
+        "card_number_formatted": "5460 - 1500 - 3099 - 4334",
+        "card_sources": "https://obamacash/obamacash_2023.txtleak://obamacash_2023?file==11https://t.me/ccauth/7cab4487https://t.me/ccauth/3ab385a7",
+        "cvv": "500",
+        "data_last_seen": "06-02-2024",
+        "first_seen": "2023-03-01T00:00:00",
+        "is_expired": "True",
+        "last_seen": "2024-02-06T07:30:19.202838",
+        "luhn_check": true,
+        "matched_asset": 546015,
+        "member_id": 47,
+        "month": 2,
+        "source_count": 4,
+        "sources": [
+            {
+                "detection_date": "2023-03-01T00:00:00",
+                "finding_snippet": "CREDIT|2946 Long Pond Rd|PA|Long Pond|18334|UNITED STATES|None|None|None|5704609012\n4000222069322453|03/2023|724|Calvin Walley|NAVY F.C.U.|VISA|CLASSIC|DEBIT|4209 Oglethorpe Street apt 101|NO|Hyattsville|20781|UNITED STATES|None|None|None|2027518855\n5460150030994334|02/2023|500|Nadia  Omar|MALAYAN BANKING BERHAD|MASTERCARD|GOLD|CREDIT|4020-2 Lorong Dato 2 Jalan Dato|NO|Chukai|24000|MALAYSIA|None|None|nadiahusna.omar@gmail.com|01119304741\n4103750014932022|06/2023|318|Junaid|ABSA GROUP, LTD.|VISA|PLATINUM|CREDIT|",
+                "source": "obamacash",
+                "source_uri": "https://obamacash/obamacash_2023.txt",
+                "total_leak_count": 2135302,
+                "total_leak_count_for_org": 20
+            },
+            {
+                "detection_date": "2023-03-01T12:14:27",
+                "finding_snippet": "946 Long Pond Rd|PA|Long Pond|18334|UNITED STATES|None|None|None|5704609012']\n['4000222069322453|03/2023|724|Calvin Walley|NAVY F.C.U.|VISA|CLASSIC|DEBIT|4209 Oglethorpe Street apt 101|NO|Hyattsville|20781|UNITED STATES|None|None|None|2027518855']\n['5460150030994334|02/2023|500|Nadia  Omar|MALAYAN BANKING BERHAD|MASTERCARD|GOLD|CREDIT|4020-2 Lorong Dato 2 Jalan Dato|NO|Chukai|24000|MALAYSIA|None|None|nadiahusna.omar@gmail.com|01119304741']\n['4103750014932022|06/2023|318|Junaid|ABSA GROUP, LTD.|VISA|PLATINUM|CRE",
+                "source": "obamacash_2023",
+                "source_uri": "leak://obamacash_2023?file==11",
+                "total_leak_count": 98565,
+                "total_leak_count_for_org": 20
+            },
+            {
+                "detection_date": "2024-02-06T07:28:42.768036",
+                "finding_snippet": "k>\nCard Type <card_type>\nProduct Type <product_type>\nCountry <issuer_country>\nTo scrape this channel use @TruSRC_Bot\nMade by N I C O and PARSEC ^_^ ❤️\n2024-02-05T23:08:11 CCAUTH wrote: MADE BY NICO AND PARSEC Join @Test123ND\n✅LIVE CC SCRAPPED (AUTH) 5460150030994334|02|23|500 ✔️\nResponse: Approved\nScheme <scheme>\nBIN <bin>\nBank <bank>\nCard Type <card_type>\nProduct Type <product_type>\nCountry <issuer_country>\nTo scrape this channel use @TruSRC_Bot\nMade by N I C O and PARSEC ^_^ ❤️\n2024-02-05T23:08:11 CCAUTH wrot",
+                "source": "deutschepost",
+                "source_uri": "https://t.me/ccauth/7cab4487",
+                "total_leak_count": 25,
+                "total_leak_count_for_org": 1
+            },
+            {
+                "detection_date": "2024-02-06T07:30:19.202838",
+                "finding_snippet": "k>\nCard Type <card_type>\nProduct Type <product_type>\nCountry <issuer_country>\nTo scrape this channel use @TruSRC_Bot\nMade by N I C O and PARSEC ^_^ ❤️\n2024-02-05T23:08:11 CCAUTH wrote: MADE BY NICO AND PARSEC Join @Test123ND\n✅LIVE CC SCRAPPED (AUTH) 5460150030994334|02|23|500 ✔️\nResponse: Approved\nScheme <scheme>\nBIN <bin>\nBank <bank>\nCard Type <card_type>\nProduct Type <product_type>\nCountry <issuer_country>\nTo scrape this channel use @TruSRC_Bot\nMade by N I C O and PARSEC ^_^ ❤️\n2024-02-05T23:08:11 CCAUTH wrot",
+                "source": "deutschepost",
+                "source_uri": "https://t.me/ccauth/3ab385a7",
+                "total_leak_count": 25,
+                "total_leak_count_for_org": 1
+            }
+        ],
+        "unique_source_uri": [
+            "https://obamacash/obamacash_2023.txt",
+            "leak://obamacash_2023?file==11",
+            "https://t.me/ccauth/7cab4487",
+            "https://t.me/ccauth/3ab385a7"
+        ],
+        "year": 2023
+    },
+    {
+        "_id": "febf6f17e8551e2f3f19e4f6919d36b8",
+        "brand": "ACME",
+        "card_expiry": "2/2023",
+        "card_number": "4283322053648083",
+        "card_number_formatted": "4283 - 3220 - 5364 - 8083",
+        "card_sources": "https://obamacash/obamacash_2023.txtleak://obamacash_2023?file==11https://t.me/ccauth/32e533cc",
+        "cvv": "777",
+        "data_last_seen": "06-02-2024",
+        "first_seen": "2023-03-01T00:00:00",
+        "is_expired": "True",
+        "last_seen": "2024-02-06T07:28:39.018819",
+        "luhn_check": true,
+        "matched_asset": 428332,
+        "member_id": 47,
+        "month": 2,
+        "source_count": 3,
+        "sources": [
+            {
+                "detection_date": "2023-03-01T00:00:00",
+                "finding_snippet": "|CREDIT|2721 Sullivan Drive Campus Box 7212|NC|Raleigh|27695|UNITED STATES|None|None|None|None\n5570985262547897|04/2023|101|ian britten|NEWDAY LTD|MASTERCARD|STANDARD|CREDIT|14 Chesterfield Road|None|London|EN3 6BG|UNITED KINGDOM|None|None|None|None\n4283322053648083|02/2023|777|Kathy Gaynor|MALAYAN BANKING BERHAD|VISA|CLASSIC|DEBIT|No36，Jalan Lintang Perdana 3，TMN Lintang Perdana|PE|Sungainsiput （U）|31100|MALAYSIA|None|None|None|195427444\n4147202407322245|12/2023|335|Yra Tonyo|CHASE BANK USA, N.A.|VISA|CLASSIC|",
+                "source": "obamacash",
+                "source_uri": "https://obamacash/obamacash_2023.txt",
+                "total_leak_count": 2135302,
+                "total_leak_count_for_org": 16
+            },
+            {
+                "detection_date": "2023-03-01T12:14:27",
+                "finding_snippet": "2721 Sullivan Drive Campus Box 7212|NC|Raleigh|27695|UNITED STATES|None|None|None|None']\n['5570985262547897|04/2023|101|ian britten|NEWDAY LTD|MASTERCARD|STANDARD|CREDIT|14 Chesterfield Road|None|London|EN3 6BG|UNITED KINGDOM|None|None|None|None']\n['4283322053648083|02/2023|777|Kathy Gaynor|MALAYAN BANKING BERHAD|VISA|CLASSIC|DEBIT|No36，Jalan Lintang Perdana 3，TMN Lintang Perdana|PE|Sungainsiput （U）|31100|MALAYSIA|None|None|None|195427444']\n['4147202407322245|12/2023|335|Yra Tonyo|CHASE BANK USA, N.A.|VISA|CLAS",
+                "source": "obamacash_2023",
+                "source_uri": "leak://obamacash_2023?file==11",
+                "total_leak_count": 98565,
+                "total_leak_count_for_org": 16
+            },
+            {
+                "detection_date": "2024-02-06T07:28:39.018819",
+                "finding_snippet": "k>\nCard Type <card_type>\nProduct Type <product_type>\nCountry <issuer_country>\nTo scrape this channel use @TruSRC_Bot\nMade by N I C O and PARSEC ^_^ ❤️\n2024-02-03T15:43:02 CCAUTH wrote: MADE BY NICO AND PARSEC Join @Test123ND\n✅LIVE CC SCRAPPED (AUTH) 4283322053648083|02|23|777 ✔️\nResponse: Approved\nScheme <scheme>\nBIN <bin>\nBank <bank>\nCard Type <card_type>\nProduct Type <product_type>\nCountry <issuer_country>\nTo scrape this channel use @TruSRC_Bot\nMade by N I C O and PARSEC ^_^ ❤️\n2024-02-03T15:43:02 CCAUTH wrot",
+                "source": "deutschepost",
+                "source_uri": "https://t.me/ccauth/32e533cc",
+                "total_leak_count": 24,
+                "total_leak_count_for_org": 1
+            }
+        ],
+        "unique_source_uri": [
+            "https://obamacash/obamacash_2023.txt",
+            "leak://obamacash_2023?file==11",
+            "https://t.me/ccauth/32e533cc"
+        ],
+        "year": 2023
+    },
+    {
+        "_id": "31b1dcc86899e2feb56cd3def8aabbcc",
+        "brand": "ACME",
+        "card_expiry": "2/2023",
+        "card_number": "4632252020257023",
+        "card_number_formatted": "4632 - 2520 - 2025 - 7023",
+        "card_sources": "https://obamacash/obamacash_2023.txtleak://obamacash_2023?file==11https://t.me/ccauth/9dfd6db6",
+        "cvv": "765",
+        "data_last_seen": "06-02-2024",
+        "first_seen": "2023-03-01T00:00:00",
+        "is_expired": "True",
+        "last_seen": "2024-02-06T07:28:38.033650",
+        "luhn_check": true,
+        "matched_asset": 463225,
+        "member_id": 47,
+        "month": 2,
+        "source_count": 3,
+        "sources": [
+            {
+                "detection_date": "2023-03-01T00:00:00",
+                "finding_snippet": "e|560083|INDIA|None|None|None|None\n5571134281128145|11/25|538\n5356668057837232|01/26|357\n5189410181016125|08/2023|052|David Schmid|CITIBANK N.A.|MASTERCARD|WORLD ELITE|CREDIT|4 Old Orchard Way|CT|Tolland|06084|UNITED STATES|None|None|None|8608998093\n4632252020257023|02/2023|765|shalini Gunasaigaran|MALAYAN BANKING BERHAD|VISA|PLATINUM|DEBIT|A201, Casa Venicia lakeview|None|Batu Caves|68100|MALAYSIA|None|None|None|None\n5153549318128436|10/2023|643|wesley lock|ACHIEVA CREDIT UNION|MASTERCARD|ENHANCED|DEBIT|804 Ja",
+                "source": "obamacash",
+                "source_uri": "https://obamacash/obamacash_2023.txt",
+                "total_leak_count": 2135302,
+                "total_leak_count_for_org": 20
+            },
+            {
+                "detection_date": "2023-03-01T12:14:27",
+                "finding_snippet": "one|None|None|None']\n['5571134281128145|11/25|538']\n['5356668057837232|01/26|357']\n['5189410181016125|08/2023|052|David Schmid|CITIBANK N.A.|MASTERCARD|WORLD ELITE|CREDIT|4 Old Orchard Way|CT|Tolland|06084|UNITED STATES|None|None|None|8608998093']\n['4632252020257023|02/2023|765|shalini Gunasaigaran|MALAYAN BANKING BERHAD|VISA|PLATINUM|DEBIT|A201, Casa Venicia lakeview|None|Batu Caves|68100|MALAYSIA|None|None|None|None']\n['5153549318128436|10/2023|643|wesley lock|ACHIEVA CREDIT UNION|MASTERCARD|ENHANCED|DEBIT|80",
+                "source": "obamacash_2023",
+                "source_uri": "leak://obamacash_2023?file==11",
+                "total_leak_count": 98565,
+                "total_leak_count_for_org": 20
+            },
+            {
+                "detection_date": "2024-02-06T07:28:38.033650",
+                "finding_snippet": "k>\nCard Type <card_type>\nProduct Type <product_type>\nCountry <issuer_country>\nTo scrape this channel use @TruSRC_Bot\nMade by N I C O and PARSEC ^_^ ❤️\n2024-02-04T09:07:58 CCAUTH wrote: MADE BY NICO AND PARSEC Join @Test123ND\n✅LIVE CC SCRAPPED (AUTH) 4632252020257023|02|23|765 ✔️\nResponse: Approved\nScheme <scheme>\nBIN <bin>\nBank <bank>\nCard Type <card_type>\nProduct Type <product_type>\nCountry <issuer_country>\nTo scrape this channel use @TruSRC_Bot\nMade by N I C O and PARSEC ^_^ ❤️\n2024-02-04T09:07:58 CCAUTH wrot",
+                "source": "deutschepost",
+                "source_uri": "https://t.me/ccauth/9dfd6db6",
+                "total_leak_count": 23,
+                "total_leak_count_for_org": 1
+            }
+        ],
+        "unique_source_uri": [
+            "https://obamacash/obamacash_2023.txt",
+            "leak://obamacash_2023?file==11",
+            "https://t.me/ccauth/9dfd6db6"
+        ],
+        "year": 2023
+    },
+    {
+        "_id": "578aca2f530af0dec33e7ad925f3906a",
+        "brand": "ACME",
+        "card_expiry": "2/2023",
+        "card_number": "4283322054437692",
+        "card_number_formatted": "4283 - 3220 - 5443 - 7692",
+        "card_sources": "https://obamacash/obamacash_2023.txtleak://obamacash_2023?file==10https://t.me/ccauth/5df36a82",
+        "cvv": "914",
+        "data_last_seen": "03-02-2024",
+        "first_seen": "2023-03-01T00:00:00",
+        "is_expired": "True",
+        "last_seen": "2024-02-03T07:28:08.065801",
+        "luhn_check": true,
+        "matched_asset": 428332,
+        "member_id": 47,
+        "month": 2,
+        "source_count": 3,
+        "sources": [
+            {
+                "detection_date": "2023-03-01T00:00:00",
+                "finding_snippet": "ne|None|16194964071\n4055600000063357|05/23|718\n4403934254063527|01/26|575\n4915663436818166|11/2023|187|Francisco Aguilar|BANCO MERCANTIL DEL NORTE S.A.., INSTITUCION DE BANCA MULTIP|VISA|CLASSIC|DEBIT|None|MN|Correll|56227|MEXICO|None|None|None|None\n4283322054437692|02/2023|914|Kim Le|MALAYAN BANKING BERHAD|VISA|CLASSIC|DEBIT|3E Jalan Pantai Molek Tanjung Tokong|PE|Pulau Pinang|10470|MALAYSIA|None|None|None|0127647727\n4984513059175947|12/2023|612|None|SHANGHAI PUDONG DEVELOPMENT BANK|VISA|PLATINUM|CREDIT|None|N",
+                "source": "obamacash",
+                "source_uri": "https://obamacash/obamacash_2023.txt",
+                "total_leak_count": 2135302,
+                "total_leak_count_for_org": 19
+            },
+            {
+                "detection_date": "2023-03-01T12:14:27",
+                "finding_snippet": "071']\n['4055600000063357|05/23|718']\n['4403934254063527|01/26|575']\n['4915663436818166|11/2023|187|Francisco Aguilar|BANCO MERCANTIL DEL NORTE S.A.., INSTITUCION DE BANCA MULTIP|VISA|CLASSIC|DEBIT|None|MN|Correll|56227|MEXICO|None|None|None|None']\n['4283322054437692|02/2023|914|Kim Le|MALAYAN BANKING BERHAD|VISA|CLASSIC|DEBIT|3E Jalan Pantai Molek Tanjung Tokong|PE|Pulau Pinang|10470|MALAYSIA|None|None|None|0127647727']\n['4984513059175947|12/2023|612|None|SHANGHAI PUDONG DEVELOPMENT BANK|VISA|PLATINUM|CREDIT|No",
+                "source": "obamacash_2023",
+                "source_uri": "leak://obamacash_2023?file==10",
+                "total_leak_count": 98666,
+                "total_leak_count_for_org": 19
+            },
+            {
+                "detection_date": "2024-02-03T07:28:08.065801",
+                "finding_snippet": "k>\nCard Type <card_type>\nProduct Type <product_type>\nCountry <issuer_country>\nTo scrape this channel use @TruSRC_Bot\nMade by N I C O and PARSEC ^_^ ❤️\n2024-01-31T14:29:48 CCAUTH wrote: MADE BY NICO AND PARSEC Join @Test123ND\n✅LIVE CC SCRAPPED (AUTH) 4283322054437692|02|23|914 ✔️\nResponse: Approved\nScheme <scheme>\nBIN <bin>\nBank <bank>\nCard Type <card_type>\nProduct Type <product_type>\nCountry <issuer_country>\nTo scrape this channel use @TruSRC_Bot\nMade by N I C O and PARSEC ^_^ ❤️\n2024-01-31T14:29:48 CCAUTH wrot",
+                "source": "deutschepost",
+                "source_uri": "https://t.me/ccauth/5df36a82",
+                "total_leak_count": 25,
+                "total_leak_count_for_org": 1
+            }
+        ],
+        "unique_source_uri": [
+            "https://obamacash/obamacash_2023.txt",
+            "leak://obamacash_2023?file==10",
+            "https://t.me/ccauth/5df36a82"
+        ],
+        "year": 2023
+    },
+    {
+        "_id": "9fea65348f41e0b03946178fce941676",
+        "brand": "ACME",
+        "card_expiry": "2/2023",
+        "card_number": "4283322055093957",
+        "card_number_formatted": "4283 - 3220 - 5509 - 3957",
+        "card_sources": "https://obamacash/obamacash_2023.txtleak://obamacash_2023?file==11https://t.me/ccauth/6d622b31",
+        "cvv": "484",
+        "data_last_seen": "03-02-2024",
+        "first_seen": "2023-03-01T00:00:00",
+        "is_expired": "True",
+        "last_seen": "2024-02-03T07:27:58.532819",
+        "luhn_check": true,
+        "matched_asset": 428332,
+        "member_id": 47,
+        "month": 2,
+        "source_count": 3,
+        "sources": [
+            {
+                "detection_date": "2023-03-01T00:00:00",
+                "finding_snippet": "|None|Ndez|51370|MEXICO|None|None|juanhernandezferreyra@gmail.com|None\n4670101023658161|09/24|748\n4791485437635723|09/2023|175|Bri|CITICORP|VISA|PREPAID TRAVEL MONEY|DEBIT|Bro|NO|635 Stanton Avenue|11102|SINGAPORE|None|None|okevivo854@gmail.com|None\n4283322055093957|02/2023|484|Holbert Josh|MALAYAN BANKING BERHAD|VISA|CLASSIC|DEBIT|Group Procurement Department, Petronas Chemicals Fertiliser Sabah Sdn Bhd,|SA|Sipitang|89850|MALAYSIA|None|None|None|60128850584\n6226880520359928|12/2023|940|None|CITIC BANK FORCREDI",
+                "source": "obamacash",
+                "source_uri": "https://obamacash/obamacash_2023.txt",
+                "total_leak_count": 2135302,
+                "total_leak_count_for_org": 16
+            },
+            {
+                "detection_date": "2023-03-01T12:14:27",
+                "finding_snippet": "1370|MEXICO|None|None|juanhernandezferreyra@gmail.com|None']\n['4670101023658161|09/24|748']\n['4791485437635723|09/2023|175|Bri|CITICORP|VISA|PREPAID TRAVEL MONEY|DEBIT|Bro|NO|635 Stanton Avenue|11102|SINGAPORE|None|None|okevivo854@gmail.com|None']\n['4283322055093957|02/2023|484|Holbert Josh|MALAYAN BANKING BERHAD|VISA|CLASSIC|DEBIT|Group Procurement Department, Petronas Chemicals Fertiliser Sabah Sdn Bhd,|SA|Sipitang|89850|MALAYSIA|None|None|None|60128850584']\n['6226880520359928|12/2023|940|None|CITIC BANK FORC",
+                "source": "obamacash_2023",
+                "source_uri": "leak://obamacash_2023?file==11",
+                "total_leak_count": 98565,
+                "total_leak_count_for_org": 16
+            },
+            {
+                "detection_date": "2024-02-03T07:27:58.532819",
+                "finding_snippet": "ATIONAL BANK OF COMMERCE\nCard Type Debit\nProduct Type Visa Classic\nCountry US\nTo scrape this channel use @TruSRC_Bot\nMade by N I C O and PARSEC ^_^ ❤️\n2024-02-02T03:37:30 CCAUTH wrote: MADE BY NICO AND PARSEC Join @Test123ND\n✅LIVE CC SCRAPPED (AUTH) 4283322055093957|02|23|484 ✔️\nResponse: Approved\nScheme <scheme>\nBIN <bin>\nBank <bank>\nCard Type <card_type>\nProduct Type <product_type>\nCountry <issuer_country>\nTo scrape this channel use @TruSRC_Bot\nMade by N I C O and PARSEC ^_^ ❤️\n2024-02-02T03:37:30 CCAUTH wrot",
+                "source": "deutschepost",
+                "source_uri": "https://t.me/ccauth/6d622b31",
+                "total_leak_count": 25,
+                "total_leak_count_for_org": 1
+            }
+        ],
+        "unique_source_uri": [
+            "https://obamacash/obamacash_2023.txt",
+            "leak://obamacash_2023?file==11",
+            "https://t.me/ccauth/6d622b31"
+        ],
+        "year": 2023
+    },
+    {
+        "_id": "68e60fffeed7aa721bddf20ccfc45819",
+        "brand": "ACME",
+        "card_expiry": "2/2023",
+        "card_number": "4283322053487193",
+        "card_number_formatted": "4283 - 3220 - 5348 - 7193",
+        "card_sources": "https://pastebin.com/DphXVvzwhttps://pastebin.com/f0k2K2ubhttps://t.me/chkptchathttps://t.me/nonehttps://t.me/goodchargedccshttps://t.me/test123ndhttps://t.me/fbinschathttps://t.me/heckerdropshttps://t.me/test1234jhttps://t.me/binbhaifamilyhttps://t.me/chekerccslivehttps://t.me/vbvchkhckrhttps://t.me/ccauth/32ee2e8c",
+        "cvv": "186",
+        "data_last_seen": "03-02-2024",
+        "first_seen": "2023-02-06T16:44:20+00:00",
+        "is_expired": "True",
+        "last_seen": "2024-02-03T07:27:39.018720",
+        "luhn_check": true,
+        "matched_asset": "428332",
+        "member_id": "47",
+        "month": 2,
+        "source_count": 13,
+        "sources": [
+            {
+                "detection_date": "2023-02-06T16:44:20+00:00",
+                "finding_snippet": "|10|23|747\r\n5314620053734435|12|2026|828\r\n5314620051382062|11|2026|350\r\n5524903602613268|04|2024|228\r\n5228403501238548|08|2028|955\r\n4001048053686002|07|2026|417\r\n4913620366350307|07|2024|021\r\n5439241740362322|03|24|708\r\n4259450301637200|12|2026|885\r\n4283322053487193|02|2023|186\r\n4864183020058914|05|2027|321\r\n4769830993115115|06|2023|385\r\n4512106824771230|02|2024|498\r\n6011208820689431|09|2029|168\r\n4744860012188843|11|2028|148\r\n5404044987816542|01|2027|383\r\n4430450054210983|12|2029|532\r\n5314620055128503|10|26|211",
+                "source": "pastebin",
+                "source_uri": "https://pastebin.com/DphXVvzw",
+                "total_leak_count": 1579,
+                "total_leak_count_for_org": 7
+            },
+            {
+                "detection_date": "2023-02-09T19:01:59+00:00",
+                "finding_snippet": "2027|227\r\n4134925485022288|03|2026|601\r\n4270880089425110|03|2026|457\r\n4134925485441322|01|2025|052\r\n4350870344080340|07|2026|438\r\n4391242403391185|07|2024|086\r\n6221551841411293|03|2026|778\r\n4091470172641000|10|2025|964\r\n4294200675582459|02|2024|684\r\n4283322053487193|02|2023|186\r\n4082640572628226|01|2027|127\r\n5178058931000783|12|2025|359\r\n4000222674693157|10|2026|829\r\n4000222674693157|10|26|829\r\n4532117178153962|03|2028|500\r\n4559864301494866|09|2028|066\r\n4239020000626666|02|2025|464\r\n4786694992133266|06|2023|995",
+                "source": "pastebin",
+                "source_uri": "https://pastebin.com/f0k2K2ub",
+                "total_leak_count": 358,
+                "total_leak_count_for_org": 3
+            },
+            {
+                "detection_date": "2023-04-18T16:10:07.388785",
+                "finding_snippet": "VV LIVE ✅\nCVV CC: 5463259997338398|05|2023|474\n➤ Result: CVV LIVE ✅\nCVV CC: 4895040847018500|01|2024|606\n➤ Result: CVV LIVE ✅\nCVV CC: 5154620048957532|10|2027|704\n➤ Result: CVV LIVE ✅\nCVV CC: 4895048368188115|12|2026|407\n➤ Result: CVV LIVE ✅\nCVV CC: 4283322053487193|02|23|186\n➤ Result: CVV LIVE ✅\nCVV CC: 4943141329369296|02|24|650\n➤ Result: CVV LIVE ✅\nCVV CC: 379774627673000|12|2024|5156\n➤ Result: CVV LIVE ✅\nCVV CC: 5154620021708811|10|2024|413\n➤ Result: CVV LIVE ✅\nCVV CC: 4270880082743808|09|2024|963\n➤ Result:",
+                "source": "tesseract",
+                "source_uri": "https://t.me/chkptchat",
+                "total_leak_count": 13168,
+                "total_leak_count_for_org": 6
+            },
+            {
+                "detection_date": "2023-04-18T16:10:14.117366",
+                "finding_snippet": "1158605|09|2026|959\n5857053904856855|04|2027|587\n5108050238898378|08|26|071\n6011208865152162|10|2028|120\n4915737000931306|10|2024|166\n4479148255959810|01|2026|391\n4115680181414353|08|2024|836\n4915737000936636|10|2024|208\n5117280500980963|09|2027|281\n4283322053487193|02|23|186\n5114770012714390|03|2025|516\n4479148244124864|05|2029|400\n5314620057466281|09|2027|606\n5264711031361423|05|2027|632\n5314620046754607|07|2026|950\n4745030900623009|12|2027|926\n5314620051372592|02|2029|220\n5108050224616941|03|26|997\n531462005",
+                "source": "tesseract",
+                "source_uri": "https://t.me/none",
+                "total_leak_count": 91523,
+                "total_leak_count_for_org": 5
+            },
+            {
+                "detection_date": "2023-04-18T16:10:26.620162",
+                "finding_snippet": "97\n➤Result: Pickup Card_Card\n➤Bypassing: 0\n➤Host: ₲øøĐ\n#LIVE CC: 4294200675582459|02|2024|684\n➤Result: Pickup Card_Card\n➤Bypassing: 0\n➤Host: ₲øøĐ\n#LIVE CC: 4403935137365005|06|2027|814\n➤Result: insufficient funds✅\n➤Bypassing: 0\n➤Host: ₲øøĐ\n#LIVE CC: 4283322053487193|02|2023|186\n➤Result: Pickup Card_Card\n➤Bypassing: 0\n➤Host: ₲øøĐ\n#LIVE CC: 4766761001374225|02|2023|987\n➤Result: lost_card\n➤Bypassing: 0\n➤Host: ₲øøĐ\n#LIVE CC: 5368431521187056|11|2024|018\n➤Result: insufficient funds✅\n➤Bypassing: 0\n➤Host: ₲øøĐ\n#LIVE C",
+                "source": "tesseract",
+                "source_uri": "https://t.me/goodchargedccs",
+                "total_leak_count": 9157,
+                "total_leak_count_for_org": 6
+            },
+            {
+                "detection_date": "2023-04-18T16:13:40.696906",
+                "finding_snippet": "ED: 0 TIMES\n\nCVV CC: 4391242403391185|07|2024|086\nRESULT: CVV LIVE\nBYPASSED: 0 TIMES\n\nCVV CC: 5444830009325583|12|2024|888\nRESULT: INSUFFICIENT FUNDS\nBYPASSED: 0 TIMES\n\nCVV CC: 4294200675582459|02|2024|684\nRESULT: CVV LIVE\nBYPASSED: 0 TIMES\n\nCVV CC: 4283322053487193|02|2023|186\nRESULT: CVV LIVE\nBYPASSED: 0 TIMES\n\nCVV CC: 5240389008214344|08|2025|044\nRESULT: INSUFFICIENT FUNDS\nBYPASSED: 0 TIMES\n\nCVV CC: 5368436346453716|05|2024|361\nRESULT: INSUFFICIENT FUNDS\nBYPASSED: 0 TIMES\n\nCVV CC: 5444830009325583|12|24|888\n",
+                "source": "tesseract",
+                "source_uri": "https://t.me/test123nd",
+                "total_leak_count": 5401,
+                "total_leak_count_for_org": 14
+            },
+            {
+                "detection_date": "2023-04-18T16:13:47.048454",
+                "finding_snippet": "464|12|2025|121\n4213166133109128|12|2025|685\n4213166133106157|12|2025|818\n4213166133100861|12|2025|786\n\n𝗕𝗜𝗡 𝗜𝗻𝗳𝗼: VISA - DEBIT - VISA CLASSIC\n𝗕𝗮𝗻𝗸: HSBC MEXICO SA INSTITUCION DE BANCA MULTIPLE GRUPO FINANCIERO HSBC\n𝗖𝗼𝘂𝗻𝘁𝗿𝘆: MEXICO 🇲🇽𝗥𝗲𝗷𝗲𝗰𝘁𝗲𝗱 ❌\n\n𝗖𝗖 ⇾ 4283322053487193|02|2023|186\n𝗚𝗮𝘁𝗲𝘄𝗮𝘆 ⇾ 3DS Lookup\n𝗥𝗲𝘀𝘂𝗹𝘁 ⇾ Challenge Required\n\n𝗕𝗜𝗡 𝗜𝗻𝗳𝗼: VISA - DEBIT - CLASSIC\n𝗕𝗮𝗻𝗸: MALAYAN BANKING BERHAD\n𝗖𝗼𝘂𝗻𝘁𝗿𝘆: MALAYSIA 🇲🇾\n\n𝗧𝗼𝗼𝗸 4.61 𝘀𝗲𝗰𝗼𝗻𝗱𝘀.vbv 4283322053487193|02|2023|186TechzillaBot - Time: 31.11's 🤖\n━━[Card Information]━━",
+                "source": "tesseract",
+                "source_uri": "https://t.me/fbinschat",
+                "total_leak_count": 25501,
+                "total_leak_count_for_org": 2
+            },
+            {
+                "detection_date": "2023-04-18T16:14:00.458263",
+                "finding_snippet": "97\n➤Result: Pickup Card_Card\n➤Bypassing: 0\n➤Host: ₲øøĐ\n#LIVE CC: 4294200675582459|02|2024|684\n➤Result: Pickup Card_Card\n➤Bypassing: 0\n➤Host: ₲øøĐ\n#LIVE CC: 4403935137365005|06|2027|814\n➤Result: insufficient funds✅\n➤Bypassing: 0\n➤Host: ₲øøĐ\n#LIVE CC: 4283322053487193|02|2023|186\n➤Result: Pickup Card_Card\n➤Bypassing: 0\n➤Host: ₲øøĐ\n#LIVE CC: 4766761001374225|02|2023|987\n➤Result: lost_card\n➤Bypassing: 0\n➤Host: ₲øøĐ\n#LIVE CC: 5368431521187056|11|2024|018\n➤Result: insufficient funds✅\n➤Bypassing: 0\n➤Host: ₲øøĐ\n#LIVE C",
+                "source": "tesseract",
+                "source_uri": "https://t.me/heckerdrops",
+                "total_leak_count": 12899,
+                "total_leak_count_for_org": 7
+            },
+            {
+                "detection_date": "2023-04-18T16:14:11.702824",
+                "finding_snippet": "ED: 0 TIMES\n\nCVV CC: 4391242403391185|07|2024|086\nRESULT: CVV LIVE\nBYPASSED: 0 TIMES\n\nCVV CC: 5444830009325583|12|2024|888\nRESULT: INSUFFICIENT FUNDS\nBYPASSED: 0 TIMES\n\nCVV CC: 4294200675582459|02|2024|684\nRESULT: CVV LIVE\nBYPASSED: 0 TIMES\n\nCVV CC: 4283322053487193|02|2023|186\nRESULT: CVV LIVE\nBYPASSED: 0 TIMES\n\nCVV CC: 5240389008214344|08|2025|044\nRESULT: INSUFFICIENT FUNDS\nBYPASSED: 0 TIMES\n\nCVV CC: 5368436346453716|05|2024|361\nRESULT: INSUFFICIENT FUNDS\nBYPASSED: 0 TIMES\n\nCVV CC: 5444830009325583|12|24|888\n",
+                "source": "tesseract",
+                "source_uri": "https://t.me/test1234j",
+                "total_leak_count": 5723,
+                "total_leak_count_for_org": 11
+            },
+            {
+                "detection_date": "2023-04-18T16:15:21.500448",
+                "finding_snippet": "|2024|684 『 ★ CVV MATCHED | [PickUP Card] ★ 』 Network Status: declined_by_network Risk Level: elevated CVC Check: pass Bank: DIGITAL F.C.U. Country: 🇺🇸US Brand: CLASSIC Card: VISA Type: DEBIT Checker Made By: [☠️【★Bв™】Bin Bhai]\n\nRetry: 0 Time\n\n\n#Ccn 4283322053487193|02|2023|186 『 ★ CVV MATCHED | [PickUP Card] ★ 』 Network Status: declined_by_network Risk Level: normal CVC Check: pass Bank: MALAYAN BANKING BERHAD Country: 🇲🇾MY Brand: CLASSIC Card: VISA Type: DEBIT Checker Made By: [☠️【★Bв™】Bin Bhai]\n\nRetry: 0 Tim",
+                "source": "tesseract",
+                "source_uri": "https://t.me/binbhaifamily",
+                "total_leak_count": 774,
+                "total_leak_count_for_org": 2
+            },
+            {
+                "detection_date": "2023-04-18T16:15:36.520232",
+                "finding_snippet": "50184|08|2024|608\n4999163407104679|06|2026|158\n4622202270001060|06|2023|182\n4661601206006444|07|2023|540\n4723574600426425|06|2028|263\n4895040441532740|04|2028|666\n4895040442485609|06|2027|485\n4397078168601648|10|2023|893\n5154809148617217|10|2029|735\n4283322053487193|02|2023|186\n4403934018020235|07|2023|029\n5857053904856855|04|2027|587\n4091470172641000|10|2025|964\n4496170000363659|10|2023|950\n4731700000168834|02|2023|673\n4232231009528582|05|2025|628\n4403935137365005|06|2027|814\n5314220944810245|03|2025|067\n41191",
+                "source": "tesseract",
+                "source_uri": "https://t.me/chekerccslive",
+                "total_leak_count": 997,
+                "total_leak_count_for_org": 2
+            },
+            {
+                "detection_date": "2023-04-18T16:16:29.108283",
+                "finding_snippet": "182471537063|04|2024|342`\n𝗚𝗮𝘁𝗲𝘄𝗮𝘆 ⇾ 3DS Lookup\n𝗥𝗲𝘀𝘂𝗹𝘁 ⇾ Authenticate Frictionless Failed\n\n𝗕𝗜𝗡 𝗜𝗻𝗳𝗼: VISA - PREPAID - VISA CLASSIC\n𝗕𝗮𝗻𝗸: TBBK CARD SERVICES\n𝗖𝗼𝘂𝗻𝘁𝗿𝘆: UNITED STATES 🇺🇸\n\n𝗧𝗼𝗼𝗸 3.18 𝘀𝗲𝗰𝗼𝗻𝗱𝘀/vbv 4847182471537063|04|2024|342𝗥𝗲𝗷𝗲𝗰𝘁𝗲𝗱 ❌\n\n𝗖𝗖 ⇾ `4283322053487193|02|2023|186`\n𝗚𝗮𝘁𝗲𝘄𝗮𝘆 ⇾ 3DS Lookup\n𝗥𝗲𝘀𝘂𝗹𝘁 ⇾ Challenge Required\n\n𝗕𝗜𝗡 𝗜𝗻𝗳𝗼: VISA - DEBIT - CLASSIC\n𝗕𝗮𝗻𝗸: MALAYAN BANKING BERHAD\n𝗖𝗼𝘂𝗻𝘁𝗿𝘆: MALAYSIA 🇲🇾\n\n𝗧𝗼𝗼𝗸 3.55 𝘀𝗲𝗰𝗼𝗻𝗱𝘀/vbv 4283322053487193|02|2023|186/vbv 4974908211823909|08|2024|464𝗥𝗲𝗷𝗲𝗰𝘁𝗲𝗱 ❌\n\n𝗖𝗖 ⇾ `4",
+                "source": "tesseract",
+                "source_uri": "https://t.me/vbvchkhckr",
+                "total_leak_count": 5410,
+                "total_leak_count_for_org": 4
+            },
+            {
+                "detection_date": "2024-02-03T07:27:39.018720",
+                "finding_snippet": "NK  NATIONAL ASSOCIATION\nCard Type Debit\nProduct Type Visa Classic\nCountry US\nTo scrape this channel use @TruSRC_Bot\nMade by N I C O and PARSEC ^_^ ❤️\n2024-01-31T13:35:59 CCAUTH wrote: MADE BY NICO AND PARSEC Join @Test123ND\n✅LIVE CC SCRAPPED (AUTH) 4283322053487193|02|23|186 ✔️\nResponse: Approved\nScheme <scheme>\nBIN <bin>\nBank <bank>\nCard Type <card_type>\nProduct Type <product_type>\nCountry <issuer_country>\nTo scrape this channel use @TruSRC_Bot\nMade by N I C O and PARSEC ^_^ ❤️\n2024-01-31T13:36:25 CCAUTH wrot",
+                "source": "deutschepost",
+                "source_uri": "https://t.me/ccauth/32ee2e8c",
+                "total_leak_count": 25,
+                "total_leak_count_for_org": 1
+            }
+        ],
+        "unique_source_uri": [
+            "https://pastebin.com/DphXVvzw",
+            "https://pastebin.com/f0k2K2ub",
+            "https://t.me/chkptchat",
+            "https://t.me/none",
+            "https://t.me/goodchargedccs",
+            "https://t.me/test123nd",
+            "https://t.me/fbinschat",
+            "https://t.me/heckerdrops",
+            "https://t.me/test1234j",
+            "https://t.me/binbhaifamily",
+            "https://t.me/chekerccslive",
+            "https://t.me/vbvchkhckr",
+            "https://t.me/ccauth/32ee2e8c"
+        ],
+        "year": 2023
+    },
+    {
+        "_id": "ac7fddba65e1dc89bd9cd8b004a91249",
+        "brand": "ACME",
+        "card_expiry": "2/2023",
+        "card_number": "4283322053556385",
+        "card_number_formatted": "4283 - 3220 - 5355 - 6385",
+        "card_sources": "https://obamacash/obamacash_2023.txtleak://obamacash_2023?file==11https://t.me/ccauth/e40cfd8c",
+        "cvv": "726",
+        "data_last_seen": "03-02-2024",
+        "first_seen": "2023-03-01T00:00:00",
+        "is_expired": "True",
+        "last_seen": "2024-02-03T07:27:37.248664",
+        "luhn_check": true,
+        "matched_asset": 428332,
+        "member_id": 47,
+        "month": 2,
+        "source_count": 3,
+        "sources": [
+            {
+                "detection_date": "2023-03-01T00:00:00",
+                "finding_snippet": "IT|1725 Pyrenees Ave|CA|Stockton|95269|UNITED STATES|None|None|bcampbelljeaoa@yahoo.com|2094517230\n6011499410928905|08/2023|118|Scott King MD|DISCOVER BANK|DISCOVER|PERSONAL|CREDIT|2609 Mystic trail|TX|Rowlett|75088|UNITED STATES|None|None|None|None\n4283322053556385|02/2023|726|Lee Chee Yee|MALAYAN BANKING BERHAD|VISA|CLASSIC|DEBIT|None|None|None|None|MALAYSIA|None|None|None|None\n4658580956881047|07/2023|129|City of|BARCLAYS BANK PLC|VISA|CLASSIC|DEBIT|4 Gifford close|NO|None|None|UNITED KINGDOM|None|None|None|",
+                "source": "obamacash",
+                "source_uri": "https://obamacash/obamacash_2023.txt",
+                "total_leak_count": 2135302,
+                "total_leak_count_for_org": 16
+            },
+            {
+                "detection_date": "2023-03-01T12:14:27",
+                "finding_snippet": "Pyrenees Ave|CA|Stockton|95269|UNITED STATES|None|None|bcampbelljeaoa@yahoo.com|2094517230']\n['6011499410928905|08/2023|118|Scott King MD|DISCOVER BANK|DISCOVER|PERSONAL|CREDIT|2609 Mystic trail|TX|Rowlett|75088|UNITED STATES|None|None|None|None']\n['4283322053556385|02/2023|726|Lee Chee Yee|MALAYAN BANKING BERHAD|VISA|CLASSIC|DEBIT|None|None|None|None|MALAYSIA|None|None|None|None']\n['4658580956881047|07/2023|129|City of|BARCLAYS BANK PLC|VISA|CLASSIC|DEBIT|4 Gifford close|NO|None|None|UNITED KINGDOM|None|None|N",
+                "source": "obamacash_2023",
+                "source_uri": "leak://obamacash_2023?file==11",
+                "total_leak_count": 98565,
+                "total_leak_count_for_org": 16
+            },
+            {
+                "detection_date": "2024-02-03T07:27:37.248664",
+                "finding_snippet": "k>\nCard Type <card_type>\nProduct Type <product_type>\nCountry <issuer_country>\nTo scrape this channel use @TruSRC_Bot\nMade by N I C O and PARSEC ^_^ ❤️\n2024-02-02T07:34:30 CCAUTH wrote: MADE BY NICO AND PARSEC Join @Test123ND\n✅LIVE CC SCRAPPED (AUTH) 4283322053556385|02|23|726 ✔️\nResponse: Approved\nScheme <scheme>\nBIN <bin>\nBank <bank>\nCard Type <card_type>\nProduct Type <product_type>\nCountry <issuer_country>\nTo scrape this channel use @TruSRC_Bot\nMade by N I C O and PARSEC ^_^ ❤️\n2024-02-02T07:34:34 CCAUTH wrot",
+                "source": "deutschepost",
+                "source_uri": "https://t.me/ccauth/e40cfd8c",
+                "total_leak_count": 24,
+                "total_leak_count_for_org": 1
+            }
+        ],
+        "unique_source_uri": [
+            "https://obamacash/obamacash_2023.txt",
+            "leak://obamacash_2023?file==11",
+            "https://t.me/ccauth/e40cfd8c"
+        ],
+        "year": 2023
+    },
+    {
+        "_id": "0fee39fcb3f86eac5126ef95b5602f27",
+        "brand": "ACME",
+        "card_expiry": "2/2023",
+        "card_number": "4283323000699666",
+        "card_number_formatted": "4283 - 3230 - 0069 - 9666",
+        "card_sources": "https://obamacash/obamacash_2023.txtleak://obamacash_2023?file==11https://t.me/ccauth/c1e81ec0",
+        "cvv": "756",
+        "data_last_seen": "03-02-2024",
+        "first_seen": "2023-03-01T00:00:00",
+        "is_expired": "True",
+        "last_seen": "2024-02-03T07:27:34.328000",
+        "luhn_check": true,
+        "matched_asset": 428332,
+        "member_id": 47,
+        "month": 2,
+        "source_count": 3,
+        "sources": [
+            {
+                "detection_date": "2023-03-01T00:00:00",
+                "finding_snippet": "sion Viejo|92692|UNITED STATES|None|None|dleorangecounty@gmail.com|9492543736\n5115653614256433|06/2023|963|Samuel katz|KEYBANK NATIONAL ASSOCIATION|MASTERCARD|PREPAID GOVERNMENT|DEBIT|16 marble way|NJ|Lakewood|08701|UNITED STATES|None|None|None|None\n4283323000699666|02/2023|756|None|MALAYAN BANKING BERHAD|VISA|CLASSIC|DEBIT|None|NO|None|None|MALAYSIA|None|None|None|None\n4258164506242754|11/2023|017|Matthew Pease|M AND T BANK, N.A.|VISA|CLASSIC|DEBIT|273 Pinegrove Ave|NE|Rochester|14617|UNITED STATES|None|None|l",
+                "source": "obamacash",
+                "source_uri": "https://obamacash/obamacash_2023.txt",
+                "total_leak_count": 2135302,
+                "total_leak_count_for_org": 16
+            },
+            {
+                "detection_date": "2023-03-01T12:14:27",
+                "finding_snippet": "jo|92692|UNITED STATES|None|None|dleorangecounty@gmail.com|9492543736']\n['5115653614256433|06/2023|963|Samuel katz|KEYBANK NATIONAL ASSOCIATION|MASTERCARD|PREPAID GOVERNMENT|DEBIT|16 marble way|NJ|Lakewood|08701|UNITED STATES|None|None|None|None']\n['4283323000699666|02/2023|756|None|MALAYAN BANKING BERHAD|VISA|CLASSIC|DEBIT|None|NO|None|None|MALAYSIA|None|None|None|None']\n['4258164506242754|11/2023|017|Matthew Pease|M AND T BANK, N.A.|VISA|CLASSIC|DEBIT|273 Pinegrove Ave|NE|Rochester|14617|UNITED STATES|None|No",
+                "source": "obamacash_2023",
+                "source_uri": "leak://obamacash_2023?file==11",
+                "total_leak_count": 98565,
+                "total_leak_count_for_org": 16
+            },
+            {
+                "detection_date": "2024-02-03T07:27:34.328000",
+                "finding_snippet": "k>\nCard Type <card_type>\nProduct Type <product_type>\nCountry <issuer_country>\nTo scrape this channel use @TruSRC_Bot\nMade by N I C O and PARSEC ^_^ ❤️\n2024-02-02T14:21:18 CCAUTH wrote: MADE BY NICO AND PARSEC Join @Test123ND\n✅LIVE CC SCRAPPED (AUTH) 4283323000699666|02|23|756 ✔️\nResponse: Approved\nScheme <scheme>\nBIN <bin>\nBank <bank>\nCard Type <card_type>\nProduct Type <product_type>\nCountry <issuer_country>\nTo scrape this channel use @TruSRC_Bot\nMade by N I C O and PARSEC ^_^ ❤️\n2024-02-02T14:21:18 CCAUTH wrot",
+                "source": "deutschepost",
+                "source_uri": "https://t.me/ccauth/c1e81ec0",
+                "total_leak_count": 25,
+                "total_leak_count_for_org": 1
+            }
+        ],
+        "unique_source_uri": [
+            "https://obamacash/obamacash_2023.txt",
+            "leak://obamacash_2023?file==11",
+            "https://t.me/ccauth/c1e81ec0"
+        ],
+        "year": 2023
+    },
+    {
+        "_id": "0e695726a63392795dc303c7699f763b",
+        "brand": "ACME",
+        "card_expiry": "2/2023",
+        "card_number": "4460310030129058",
+        "card_number_formatted": "4460 - 3100 - 3012 - 9058",
+        "card_sources": "https://obamacash/obamacash_2023.txtleak://obamacash_2023?file==10https://t.me/ccauth/13a64b52",
+        "cvv": "453",
+        "data_last_seen": "03-02-2024",
+        "first_seen": "2023-03-01T00:00:00",
+        "is_expired": "True",
+        "last_seen": "2024-02-03T07:27:31.367389",
+        "luhn_check": true,
+        "matched_asset": 446031,
+        "member_id": 47,
+        "month": 2,
+        "source_count": 3,
+        "sources": [
+            {
+                "detection_date": "2023-03-01T00:00:00",
+                "finding_snippet": "airoud24@gmail.com|None\n4520883009201403|06/2023|504|Tony Pontes|TORONTO-DOMINION BANK|VISA|INFINITE|CREDIT|302-35 Wabash Avenue|NO|Toronto|M6R 0A9|CANADA|None|None|tpontes34@gmail.com|4169920821\n4895040397744695|01/24|518\n4895045555898027|04/24|639\n4460310030129058|02/2023|453|Anis Zaihasmy|MALAYAN BANKING BERHAD|VISA|GOLD|CREDIT|None|None|None|None|MALAYSIA|None|None|None|None\n6226231127370381|09/2023|235|None|CHINA MINSHENG BANK|CHINA UNION PAY|CLASSIC|CREDIT|None|NO|None|None|CHINA|None|None|None|None\n55930",
+                "source": "obamacash",
+                "source_uri": "https://obamacash/obamacash_2023.txt",
+                "total_leak_count": 2135302,
+                "total_leak_count_for_org": 19
+            },
+            {
+                "detection_date": "2023-03-01T12:14:27",
+                "finding_snippet": "om|None']\n['4520883009201403|06/2023|504|Tony Pontes|TORONTO-DOMINION BANK|VISA|INFINITE|CREDIT|302-35 Wabash Avenue|NO|Toronto|M6R 0A9|CANADA|None|None|tpontes34@gmail.com|4169920821']\n['4895040397744695|01/24|518']\n['4895045555898027|04/24|639']\n['4460310030129058|02/2023|453|Anis Zaihasmy|MALAYAN BANKING BERHAD|VISA|GOLD|CREDIT|None|None|None|None|MALAYSIA|None|None|None|None']\n['6226231127370381|09/2023|235|None|CHINA MINSHENG BANK|CHINA UNION PAY|CLASSIC|CREDIT|None|NO|None|None|CHINA|None|None|None|None']",
+                "source": "obamacash_2023",
+                "source_uri": "leak://obamacash_2023?file==10",
+                "total_leak_count": 98666,
+                "total_leak_count_for_org": 19
+            },
+            {
+                "detection_date": "2024-02-03T07:27:31.367389",
+                "finding_snippet": "ANK USA\nCard Type Credit\nProduct Type World Elite MasterCard® Card\nCountry US\nTo scrape this channel use @TruSRC_Bot\nMade by N I C O and PARSEC ^_^ ❤️\n2024-02-01T20:32:19 CCAUTH wrote: MADE BY NICO AND PARSEC Join @Test123ND\n✅LIVE CC SCRAPPED (AUTH) 4460310030129058|02|23|453 ✔️\nResponse: Approved\nScheme <scheme>\nBIN <bin>\nBank <bank>\nCard Type <card_type>\nProduct Type <product_type>\nCountry <issuer_country>\nTo scrape this channel use @TruSRC_Bot\nMade by N I C O and PARSEC ^_^ ❤️\n2024-02-01T20:32:19 CCAUTH wrot",
+                "source": "deutschepost",
+                "source_uri": "https://t.me/ccauth/13a64b52",
+                "total_leak_count": 25,
+                "total_leak_count_for_org": 1
+            }
+        ],
+        "unique_source_uri": [
+            "https://obamacash/obamacash_2023.txt",
+            "leak://obamacash_2023?file==10",
+            "https://t.me/ccauth/13a64b52"
+        ],
+        "year": 2023
+    },
+    {
+        "_id": "963b222877506da965c980db61e60dbc",
+        "brand": "ACME",
+        "card_expiry": "2/2023",
+        "card_number": "4460310036908117",
+        "card_number_formatted": "4460 - 3100 - 3690 - 8117",
+        "card_sources": "https://obamacash/obamacash_2023.txtleak://obamacash_2023?file==11https://t.me/ccauth/354098ba",
+        "cvv": "255",
+        "data_last_seen": "03-02-2024",
+        "first_seen": "2023-03-01T00:00:00",
+        "is_expired": "True",
+        "last_seen": "2024-02-03T07:27:26.594822",
+        "luhn_check": true,
+        "matched_asset": 446031,
+        "member_id": 47,
+        "month": 2,
+        "source_count": 3,
+        "sources": [
+            {
+                "detection_date": "2023-03-01T00:00:00",
+                "finding_snippet": "hill|NO|None|BL1 2NJ|UNITED KINGDOM|None|None|None|07968629996\n5253635050181292|01/27|120\n6259655770260798|11/2023|427|None|CHINA CONSTRUCTION BANK|CHINA UNION PAY|CLASSIC|CREDIT|None|NO|None|None|CHINA|None|None|None|None\n4430440024486482|09/28|746\n4460310036908117|02/2023|255|ROSE WILLS|MALAYAN BANKING BERHAD|VISA|GOLD|CREDIT|739 BENT CREEK DR|OH|Wadsworth|44281|MALAYSIA|None|None|ROSEWILLS@ATT.NET|1111110001\n6226880165362187|02/2023|892|None|CITIC BANK FORCREDIT CARD|CHINA UNION PAY|CLASSIC|CREDIT|None|NO|No",
+                "source": "obamacash",
+                "source_uri": "https://obamacash/obamacash_2023.txt",
+                "total_leak_count": 2135302,
+                "total_leak_count_for_org": 16
+            },
+            {
+                "detection_date": "2023-03-01T12:14:27",
+                "finding_snippet": " 2NJ|UNITED KINGDOM|None|None|None|07968629996']\n['5253635050181292|01/27|120']\n['6259655770260798|11/2023|427|None|CHINA CONSTRUCTION BANK|CHINA UNION PAY|CLASSIC|CREDIT|None|NO|None|None|CHINA|None|None|None|None']\n['4430440024486482|09/28|746']\n['4460310036908117|02/2023|255|ROSE WILLS|MALAYAN BANKING BERHAD|VISA|GOLD|CREDIT|739 BENT CREEK DR|OH|Wadsworth|44281|MALAYSIA|None|None|ROSEWILLS@ATT.NET|1111110001']\n['6226880165362187|02/2023|892|None|CITIC BANK FORCREDIT CARD|CHINA UNION PAY|CLASSIC|CREDIT|None|N",
+                "source": "obamacash_2023",
+                "source_uri": "leak://obamacash_2023?file==11",
+                "total_leak_count": 98565,
+                "total_leak_count_for_org": 16
+            },
+            {
+                "detection_date": "2024-02-03T07:27:26.594822",
+                "finding_snippet": "k>\nCard Type <card_type>\nProduct Type <product_type>\nCountry <issuer_country>\nTo scrape this channel use @TruSRC_Bot\nMade by N I C O and PARSEC ^_^ ❤️\n2024-02-03T01:17:16 CCAUTH wrote: MADE BY NICO AND PARSEC Join @Test123ND\n✅LIVE CC SCRAPPED (AUTH) 4460310036908117|02|23|255 ✔️\nResponse: Approved\nScheme <scheme>\nBIN <bin>\nBank <bank>\nCard Type <card_type>\nProduct Type <product_type>\nCountry <issuer_country>\nTo scrape this channel use @TruSRC_Bot\nMade by N I C O and PARSEC ^_^ ❤️\n2024-02-03T01:17:21 CCAUTH wrot",
+                "source": "deutschepost",
+                "source_uri": "https://t.me/ccauth/354098ba",
+                "total_leak_count": 24,
+                "total_leak_count_for_org": 1
+            }
+        ],
+        "unique_source_uri": [
+            "https://obamacash/obamacash_2023.txt",
+            "leak://obamacash_2023?file==11",
+            "https://t.me/ccauth/354098ba"
+        ],
+        "year": 2023
+    },
+    {
+        "_id": "8b9792c5376c4a60fdc8579335a95807",
+        "brand": "ACME",
+        "card_expiry": "2/2023",
+        "card_number": "4283322054511843",
+        "card_number_formatted": "4283 - 3220 - 5451 - 1843",
+        "card_sources": "https://obamacash/obamacash_2023.txtleak://obamacash_2023?file==10https://t.me/ccauth/d7cb9611https://t.me/ccauth/793dedc0",
+        "cvv": "426",
+        "data_last_seen": "31-01-2024",
+        "first_seen": "2023-03-01T00:00:00",
+        "is_expired": "True",
+        "last_seen": "2024-01-31T07:28:36.283165",
+        "luhn_check": true,
+        "matched_asset": 428332,
+        "member_id": 47,
+        "month": 2,
+        "source_count": 4,
+        "sources": [
+            {
+                "detection_date": "2023-03-01T00:00:00",
+                "finding_snippet": "CREDIT|2348 NW 138th Dr.|FL|Sunrise|33323|UNITED STATES|None|None|e29a1c54a@guestuser.com|9546189741\n6011499461655704|12/2023|184|Don Chapman|DISCOVER BANK|DISCOVER|PERSONAL|CREDIT|34272 CR X|CO|Hillrose|80733|UNITED STATES|None|None|None|9707684228\n4283322054511843|02/2023|426|Susan Belvis|MALAYAN BANKING BERHAD|VISA|CLASSIC|DEBIT|49, Persiaran Bercham Selatan 17|IP|Ipoh|31400|MALAYSIA|None|None|None|6178352595\n5156570000143134|02/2023|099|Debra|INDEPENDENT BANK|MASTERCARD|ENHANCED|DEBIT|Carroll|WH|142 Gunter ",
+                "source": "obamacash",
+                "source_uri": "https://obamacash/obamacash_2023.txt",
+                "total_leak_count": 2135302,
+                "total_leak_count_for_org": 14
+            },
+            {
+                "detection_date": "2023-03-01T12:14:27",
+                "finding_snippet": "348 NW 138th Dr.|FL|Sunrise|33323|UNITED STATES|None|None|e29a1c54a@guestuser.com|9546189741']\n['6011499461655704|12/2023|184|Don Chapman|DISCOVER BANK|DISCOVER|PERSONAL|CREDIT|34272 CR X|CO|Hillrose|80733|UNITED STATES|None|None|None|9707684228']\n['4283322054511843|02/2023|426|Susan Belvis|MALAYAN BANKING BERHAD|VISA|CLASSIC|DEBIT|49, Persiaran Bercham Selatan 17|IP|Ipoh|31400|MALAYSIA|None|None|None|6178352595']\n['5156570000143134|02/2023|099|Debra|INDEPENDENT BANK|MASTERCARD|ENHANCED|DEBIT|Carroll|WH|142 Gun",
+                "source": "obamacash_2023",
+                "source_uri": "leak://obamacash_2023?file==10",
+                "total_leak_count": 98666,
+                "total_leak_count_for_org": 14
+            },
+            {
+                "detection_date": "2023-11-23T07:28:31.891245",
+                "finding_snippet": "k>\nCard Type <card_type>\nProduct Type <product_type>\nCountry <issuer_country>\nTo scrape this channel use @TruSRC_Bot\nMade by N I C O and PARSEC ^_^ ❤️\n2023-11-22T17:37:19 CCAUTH wrote: MADE BY NICO AND PARSEC Join @Test123ND\n✅LIVE CC SCRAPPED (AUTH) 4283322054511843|02|23|426 ✔️\nResponse: Approved\nScheme <scheme>\nBIN <bin>\nBank <bank>\nCard Type <card_type>\nProduct Type <product_type>\nCountry <issuer_country>\nTo scrape this channel use @TruSRC_Bot\nMade by N I C O and PARSEC ^_^ ❤️",
+                "source": "deutschepost",
+                "source_uri": "https://t.me/ccauth/d7cb9611",
+                "total_leak_count": 25,
+                "total_leak_count_for_org": 1
+            },
+            {
+                "detection_date": "2024-01-31T07:28:36.283165",
+                "finding_snippet": "IN 434417\nBank <bank>\nCard Type Credit\nProduct Type <product_type>\nCountry AU\nTo scrape this channel use @TruSRC_Bot\nMade by N I C O and PARSEC ^_^ ❤️\n2024-01-29T17:44:00 CCAUTH wrote: MADE BY NICO AND PARSEC Join @Test123ND\n✅LIVE CC SCRAPPED (AUTH) 4283322054511843|02|23|426 ✔️\nResponse: Approved\nScheme <scheme>\nBIN <bin>\nBank <bank>\nCard Type <card_type>\nProduct Type <product_type>\nCountry <issuer_country>\nTo scrape this channel use @TruSRC_Bot\nMade by N I C O and PARSEC ^_^ ❤️\n2024-01-29T17:44:00 CCAUTH wrot",
+                "source": "deutschepost",
+                "source_uri": "https://t.me/ccauth/793dedc0",
+                "total_leak_count": 25,
+                "total_leak_count_for_org": 1
+            }
+        ],
+        "unique_source_uri": [
+            "https://obamacash/obamacash_2023.txt",
+            "leak://obamacash_2023?file==10",
+            "https://t.me/ccauth/d7cb9611",
+            "https://t.me/ccauth/793dedc0"
+        ],
+        "year": 2023
+    },
+    {
+        "_id": "7cd820c5575c515709f6468e66593d4f",
+        "brand": "ACME",
+        "card_expiry": "2/2023",
+        "card_number": "4966230337078981",
+        "card_number_formatted": "4966 - 2303 - 3707 - 8981",
+        "card_sources": "https://obamacash/obamacash_2023.txtleak://obamacash_2023?file==10https://t.me/ccauth/39e23a0a",
+        "cvv": "551",
+        "data_last_seen": "31-01-2024",
+        "first_seen": "2023-03-01T00:00:00",
+        "is_expired": "True",
+        "last_seen": "2024-01-31T07:28:33.638823",
+        "luhn_check": true,
+        "matched_asset": 496623,
+        "member_id": 47,
+        "month": 2,
+        "source_count": 3,
+        "sources": [
+            {
+                "detection_date": "2023-03-01T00:00:00",
+                "finding_snippet": "IT|2423 W Gardner Ave|WA|Spokane|99201|UNITED STATES|None|None|None|5092202495\n377717114170669|11/2023|6554|lisa dennis|WELLS FARGO|AMERICAN EXPRESS|PERSONAL GREEN REVOLVE|CREDIT|2755 caratoke hwy|NO|Currituck|27929|UNITED STATES|None|None|None|None\n4966230337078981|02/2023|551|S DAARWIN SUBRAMANEE|MALAYAN BANKING BERHAD|VISA|GOLD|CREDIT|None|None|None|None|MALAYSIA|None|None|None|None\n5253020002907054|05/23|535\n4915666234596744|06/2023|768|JUAN EMILIO MERAZ|BANCO MERCANTIL DEL NORTE S.A.., INSTITUCION DE BANCA",
+                "source": "obamacash",
+                "source_uri": "https://obamacash/obamacash_2023.txt",
+                "total_leak_count": 2135302,
+                "total_leak_count_for_org": 14
+            },
+            {
+                "detection_date": "2023-03-01T12:14:27",
+                "finding_snippet": "W Gardner Ave|WA|Spokane|99201|UNITED STATES|None|None|None|5092202495']\n['377717114170669|11/2023|6554|lisa dennis|WELLS FARGO|AMERICAN EXPRESS|PERSONAL GREEN REVOLVE|CREDIT|2755 caratoke hwy|NO|Currituck|27929|UNITED STATES|None|None|None|None']\n['4966230337078981|02/2023|551|S DAARWIN SUBRAMANEE|MALAYAN BANKING BERHAD|VISA|GOLD|CREDIT|None|None|None|None|MALAYSIA|None|None|None|None']\n['5253020002907054|05/23|535']\n['4915666234596744|06/2023|768|JUAN EMILIO MERAZ|BANCO MERCANTIL DEL NORTE S.A.., INSTITUCION ",
+                "source": "obamacash_2023",
+                "source_uri": "leak://obamacash_2023?file==10",
+                "total_leak_count": 98666,
+                "total_leak_count_for_org": 14
+            },
+            {
+                "detection_date": "2024-01-31T07:28:33.638823",
+                "finding_snippet": "nk ROYAL BANK OF CANADA\nCard Type Credit\nProduct Type Visa Classic\nCountry CA\nTo scrape this channel use @TruSRC_Bot\nMade by N I C O and PARSEC ^_^ ❤️\n2024-01-29T18:17:58 CCAUTH wrote: MADE BY NICO AND PARSEC Join @Test123ND\n✅LIVE CC SCRAPPED (AUTH) 4966230337078981|02|23|551 ✔️\nResponse: Approved\nScheme <scheme>\nBIN <bin>\nBank <bank>\nCard Type <card_type>\nProduct Type <product_type>\nCountry <issuer_country>\nTo scrape this channel use @TruSRC_Bot\nMade by N I C O and PARSEC ^_^ ❤️\n2024-01-29T18:17:58 CCAUTH wrot",
+                "source": "deutschepost",
+                "source_uri": "https://t.me/ccauth/39e23a0a",
+                "total_leak_count": 25,
+                "total_leak_count_for_org": 1
+            }
+        ],
+        "unique_source_uri": [
+            "https://obamacash/obamacash_2023.txt",
+            "leak://obamacash_2023?file==10",
+            "https://t.me/ccauth/39e23a0a"
+        ],
+        "year": 2023
+    },
+    {
+        "_id": "bfd56f2394c93bb3434747d3c13b2995",
+        "brand": "ACME",
+        "card_expiry": "2/2023",
+        "card_number": "4283322053465538",
+        "card_number_formatted": "4283 - 3220 - 5346 - 5538",
+        "card_sources": "https://obamacash/obamacash_2023.txtleak://obamacash_2023?file==9https://t.me/ccauth/c4c421bb",
+        "cvv": "886",
+        "data_last_seen": "28-01-2024",
+        "first_seen": "2023-03-01T00:00:00",
+        "is_expired": "True",
+        "last_seen": "2024-01-28T07:29:25.609436",
+        "luhn_check": true,
+        "matched_asset": 428332,
+        "member_id": 47,
+        "month": 2,
+        "source_count": 3,
+        "sources": [
+            {
+                "detection_date": "2023-03-01T00:00:00",
+                "finding_snippet": "one|None\n4915663430791161|09/2023|898|JoseAbraham VenturaBustamante|BANCO MERCANTIL DEL NORTE S.A.., INSTITUCION DE BANCA MULTIP|VISA|CLASSIC|DEBIT|None|None|None|56343|MEXICO|None|None|None|None\n4772143016688679|09/32|160\n4223551713922511|01/27|447\n4283322053465538|02/2023|886|wan akram mohamed|MALAYAN BANKING BERHAD|VISA|CLASSIC|DEBIT|None|None|None|None|MALAYSIA|None|None|None|None\n5428204372879784|05/2023|834|Danilo Matheus|BANCO SANTANDER (BRASIL) S.A.|MASTERCARD|STANDARD|CREDIT|Rua Mauricio Schwartzmann|S",
+                "source": "obamacash",
+                "source_uri": "https://obamacash/obamacash_2023.txt",
+                "total_leak_count": 2135302,
+                "total_leak_count_for_org": 17
+            },
+            {
+                "detection_date": "2023-03-01T12:14:27",
+                "finding_snippet": "5663430791161|09/2023|898|JoseAbraham VenturaBustamante|BANCO MERCANTIL DEL NORTE S.A.., INSTITUCION DE BANCA MULTIP|VISA|CLASSIC|DEBIT|None|None|None|56343|MEXICO|None|None|None|None']\n['4772143016688679|09/32|160']\n['4223551713922511|01/27|447']\n['4283322053465538|02/2023|886|wan akram mohamed|MALAYAN BANKING BERHAD|VISA|CLASSIC|DEBIT|None|None|None|None|MALAYSIA|None|None|None|None']\n['5428204372879784|05/2023|834|Danilo Matheus|BANCO SANTANDER (BRASIL) S.A.|MASTERCARD|STANDARD|CREDIT|Rua Mauricio Schwartzma",
+                "source": "obamacash_2023",
+                "source_uri": "leak://obamacash_2023?file==9",
+                "total_leak_count": 98582,
+                "total_leak_count_for_org": 17
+            },
+            {
+                "detection_date": "2024-01-28T07:29:25.609436",
+                "finding_snippet": "k>\nCard Type <card_type>\nProduct Type <product_type>\nCountry <issuer_country>\nTo scrape this channel use @TruSRC_Bot\nMade by N I C O and PARSEC ^_^ ❤️\n2024-01-26T12:06:07 CCAUTH wrote: MADE BY NICO AND PARSEC Join @Test123ND\n✅LIVE CC SCRAPPED (AUTH) 4283322053465538|02|23|886 ✔️\nResponse: Approved\nScheme <scheme>\nBIN <bin>\nBank <bank>\nCard Type <card_type>\nProduct Type <product_type>\nCountry <issuer_country>\nTo scrape this channel use @TruSRC_Bot\nMade by N I C O and PARSEC ^_^ ❤️\n2024-01-26T12:06:07 CCAUTH wrot",
+                "source": "deutschepost",
+                "source_uri": "https://t.me/ccauth/c4c421bb",
+                "total_leak_count": 25,
+                "total_leak_count_for_org": 1
+            }
+        ],
+        "unique_source_uri": [
+            "https://obamacash/obamacash_2023.txt",
+            "leak://obamacash_2023?file==9",
+            "https://t.me/ccauth/c4c421bb"
+        ],
+        "year": 2023
+    },
+    {
+        "_id": "829fd6bee46ee1326f97589ceca4d171",
+        "brand": "ACME",
+        "card_expiry": "2/2023",
+        "card_number": "4283322054587967",
+        "card_number_formatted": "4283 - 3220 - 5458 - 7967",
+        "card_sources": "https://obamacash/obamacash_2023.txtleak://obamacash_2023?file==9https://t.me/ccauth/6f4942a6",
+        "cvv": "994",
+        "data_last_seen": "28-01-2024",
+        "first_seen": "2023-03-01T00:00:00",
+        "is_expired": "True",
+        "last_seen": "2024-01-28T07:29:14.339944",
+        "luhn_check": true,
+        "matched_asset": 428332,
+        "member_id": 47,
+        "month": 2,
+        "source_count": 3,
+        "sources": [
+            {
+                "detection_date": "2023-03-01T00:00:00",
+                "finding_snippet": "lderacchi|CHASE BANK USA, N.A.|VISA|CLASSIC|CREDIT|817 Elm Ave|NJ|Ridgefield|07657|UNITED STATES|None|None|None|None\n5412820037414747|07/2023|416|Wilson Shazi|NEDBANK LIMITED|MASTERCARD|GOLD|DEBIT|None|None|None|None|SOUTH AFRICA|None|None|None|None\n4283322054587967|02/2023|994|sancio Mary grace|MALAYAN BANKING BERHAD|VISA|CLASSIC|DEBIT|Unit Farmasi Logistik|JO|Kulai|81000|MALAYSIA|None|None|None|0147583379\n4147202343931257|02/2023|881|LBC carolina Sersocimo|CHASE BANK USA, N.A.|VISA|CLASSIC|CREDIT|4000 Briargl",
+                "source": "obamacash",
+                "source_uri": "https://obamacash/obamacash_2023.txt",
+                "total_leak_count": 2135302,
+                "total_leak_count_for_org": 17
+            },
+            {
+                "detection_date": "2023-03-01T12:14:27",
+                "finding_snippet": "i|CHASE BANK USA, N.A.|VISA|CLASSIC|CREDIT|817 Elm Ave|NJ|Ridgefield|07657|UNITED STATES|None|None|None|None']\n['5412820037414747|07/2023|416|Wilson Shazi|NEDBANK LIMITED|MASTERCARD|GOLD|DEBIT|None|None|None|None|SOUTH AFRICA|None|None|None|None']\n['4283322054587967|02/2023|994|sancio Mary grace|MALAYAN BANKING BERHAD|VISA|CLASSIC|DEBIT|Unit Farmasi Logistik|JO|Kulai|81000|MALAYSIA|None|None|None|0147583379']\n['4147202343931257|02/2023|881|LBC carolina Sersocimo|CHASE BANK USA, N.A.|VISA|CLASSIC|CREDIT|4000 Bri",
+                "source": "obamacash_2023",
+                "source_uri": "leak://obamacash_2023?file==9",
+                "total_leak_count": 98582,
+                "total_leak_count_for_org": 17
+            },
+            {
+                "detection_date": "2024-01-28T07:29:14.339944",
+                "finding_snippet": "k>\nCard Type <card_type>\nProduct Type <product_type>\nCountry <issuer_country>\nTo scrape this channel use @TruSRC_Bot\nMade by N I C O and PARSEC ^_^ ❤️\n2024-01-26T01:43:59 CCAUTH wrote: MADE BY NICO AND PARSEC Join @Test123ND\n✅LIVE CC SCRAPPED (AUTH) 4283322054587967|02|23|994 ✔️\nResponse: Approved\nScheme <scheme>\nBIN <bin>\nBank <bank>\nCard Type <card_type>\nProduct Type <product_type>\nCountry <issuer_country>\nTo scrape this channel use @TruSRC_Bot\nMade by N I C O and PARSEC ^_^ ❤️\n2024-01-26T01:43:59 CCAUTH wrot",
+                "source": "deutschepost",
+                "source_uri": "https://t.me/ccauth/6f4942a6",
+                "total_leak_count": 25,
+                "total_leak_count_for_org": 1
+            }
+        ],
+        "unique_source_uri": [
+            "https://obamacash/obamacash_2023.txt",
+            "leak://obamacash_2023?file==9",
+            "https://t.me/ccauth/6f4942a6"
+        ],
+        "year": 2023
+    },
+    {
+        "_id": "7a4e294307043d9e17445467ccaa69e8",
+        "brand": "ACME",
+        "card_expiry": "2/2023",
+        "card_number": "4506180036073345",
+        "card_number_formatted": "4506 - 1800 - 3607 - 3345",
+        "card_sources": "https://obamacash/obamacash_2023.txtleak://obamacash_2023?file==9https://t.me/ccauth/eae89c6c",
+        "cvv": "607",
+        "data_last_seen": "28-01-2024",
+        "first_seen": "2023-03-01T00:00:00",
+        "is_expired": "True",
+        "last_seen": "2024-01-28T07:29:14.143421",
+        "luhn_check": true,
+        "matched_asset": 450618,
+        "member_id": 47,
+        "month": 2,
+        "source_count": 3,
+        "sources": [
+            {
+                "detection_date": "2023-03-01T00:00:00",
+                "finding_snippet": "A|CLASSIC|DEBIT|1801 Stonebridge Rd 102|WI|West Bend|53095|UNITED STATES|None|None|leahmski@gmail.com|12623056098\n4430410056816997|11/2023|863|Kenni Griffin|PNC BANK, N.A.|VISA|CLASSIC|DEBIT|142 flat dr|NO|None|None|UNITED STATES|None|None|None|None\n4506180036073345|02/2023|607|Mark Bolden|MALAYAN BANKING BERHAD|VISA|CLASSIC|CREDIT|768 48th Street|VA|Newport News|23607|MALAYSIA|None|None|None|7578791193\n4081044094723287|12/2023|385|Susan Maione-Chee|DESERT SCHOOLS F.C.U.|VISA|CLASSIC|DEBIT|660 East Cantebria Dr",
+                "source": "obamacash",
+                "source_uri": "https://obamacash/obamacash_2023.txt",
+                "total_leak_count": 2135302,
+                "total_leak_count_for_org": 17
+            },
+            {
+                "detection_date": "2023-03-01T12:14:27",
+                "finding_snippet": "C|DEBIT|1801 Stonebridge Rd 102|WI|West Bend|53095|UNITED STATES|None|None|leahmski@gmail.com|12623056098']\n['4430410056816997|11/2023|863|Kenni Griffin|PNC BANK, N.A.|VISA|CLASSIC|DEBIT|142 flat dr|NO|None|None|UNITED STATES|None|None|None|None']\n['4506180036073345|02/2023|607|Mark Bolden|MALAYAN BANKING BERHAD|VISA|CLASSIC|CREDIT|768 48th Street|VA|Newport News|23607|MALAYSIA|None|None|None|7578791193']\n['4081044094723287|12/2023|385|Susan Maione-Chee|DESERT SCHOOLS F.C.U.|VISA|CLASSIC|DEBIT|660 East Cantebri",
+                "source": "obamacash_2023",
+                "source_uri": "leak://obamacash_2023?file==9",
+                "total_leak_count": 98582,
+                "total_leak_count_for_org": 17
+            },
+            {
+                "detection_date": "2024-01-28T07:29:14.143421",
+                "finding_snippet": "k>\nCard Type <card_type>\nProduct Type <product_type>\nCountry <issuer_country>\nTo scrape this channel use @TruSRC_Bot\nMade by N I C O and PARSEC ^_^ ❤️\n2024-01-26T08:35:31 CCAUTH wrote: MADE BY NICO AND PARSEC Join @Test123ND\n✅LIVE CC SCRAPPED (AUTH) 4506180036073345|02|23|607 ✔️\nResponse: Approved\nScheme <scheme>\nBIN <bin>\nBank <bank>\nCard Type <card_type>\nProduct Type <product_type>\nCountry <issuer_country>\nTo scrape this channel use @TruSRC_Bot\nMade by N I C O and PARSEC ^_^ ❤️",
+                "source": "deutschepost",
+                "source_uri": "https://t.me/ccauth/eae89c6c",
+                "total_leak_count": 25,
+                "total_leak_count_for_org": 1
+            }
+        ],
+        "unique_source_uri": [
+            "https://obamacash/obamacash_2023.txt",
+            "leak://obamacash_2023?file==9",
+            "https://t.me/ccauth/eae89c6c"
+        ],
+        "year": 2023
+    },
+    {
+        "_id": "fc607ac30121157d957d863e82bcfdda",
+        "brand": "ACME",
+        "card_expiry": "2/2023",
+        "card_number": "4283322053212849",
+        "card_number_formatted": "4283 - 3220 - 5321 - 2849",
+        "card_sources": "https://obamacash/obamacash_2023.txtleak://obamacash_2023?file==9https://t.me/ccauth/91378dd0",
+        "cvv": "240",
+        "data_last_seen": "28-01-2024",
+        "first_seen": "2023-03-01T00:00:00",
+        "is_expired": "True",
+        "last_seen": "2024-01-28T07:29:04.771910",
+        "luhn_check": true,
+        "matched_asset": 428332,
+        "member_id": 47,
+        "month": 2,
+        "source_count": 3,
+        "sources": [
+            {
+                "detection_date": "2023-03-01T00:00:00",
+                "finding_snippet": "1672754061133|04/27|953\n4698480222398417|09/2023|877|Filipa Oliveira|CAIXA ECONOMICA MONTEPIO GERAL|VISA|PREPAID|DEBIT|Rua Gaspar Nunes 31 N31, 4B|PO|Montijo|2870-331|PORTUGAL|None|None|None|None\n4867960068610822|06/24|171\n4611310071694810|06/26|188\n4283322053212849|02/2023|240|NADIA|MALAYAN BANKING BERHAD|VISA|CLASSIC|DEBIT|No 29 Tingkat Bawah Jln Genuang Perdana|None|Segamat|85000|MALAYSIA|None|None|None|None\n5256782912194894|12/2023|244|Jony Bravo|BANCO NACIONAL DE MEXICO, S.A.|MASTERCARD|STANDARD|DEBIT|None",
+                "source": "obamacash",
+                "source_uri": "https://obamacash/obamacash_2023.txt",
+                "total_leak_count": 2135302,
+                "total_leak_count_for_org": 17
+            },
+            {
+                "detection_date": "2023-03-01T12:14:27",
+                "finding_snippet": "/27|953']\n['4698480222398417|09/2023|877|Filipa Oliveira|CAIXA ECONOMICA MONTEPIO GERAL|VISA|PREPAID|DEBIT|Rua Gaspar Nunes 31 N31, 4B|PO|Montijo|2870-331|PORTUGAL|None|None|None|None']\n['4867960068610822|06/24|171']\n['4611310071694810|06/26|188']\n['4283322053212849|02/2023|240|NADIA|MALAYAN BANKING BERHAD|VISA|CLASSIC|DEBIT|No 29 Tingkat Bawah Jln Genuang Perdana|None|Segamat|85000|MALAYSIA|None|None|None|None']\n['5256782912194894|12/2023|244|Jony Bravo|BANCO NACIONAL DE MEXICO, S.A.|MASTERCARD|STANDARD|DEBIT|",
+                "source": "obamacash_2023",
+                "source_uri": "leak://obamacash_2023?file==9",
+                "total_leak_count": 98582,
+                "total_leak_count_for_org": 17
+            },
+            {
+                "detection_date": "2024-01-28T07:29:04.771910",
+                "finding_snippet": "k>\nCard Type <card_type>\nProduct Type <product_type>\nCountry <issuer_country>\nTo scrape this channel use @TruSRC_Bot\nMade by N I C O and PARSEC ^_^ ❤️\n2024-01-27T09:00:47 CCAUTH wrote: MADE BY NICO AND PARSEC Join @Test123ND\n✅LIVE CC SCRAPPED (AUTH) 4283322053212849|02|23|240 ✔️\nResponse: Approved\nScheme <scheme>\nBIN <bin>\nBank <bank>\nCard Type <card_type>\nProduct Type <product_type>\nCountry <issuer_country>\nTo scrape this channel use @TruSRC_Bot\nMade by N I C O and PARSEC ^_^ ❤️",
+                "source": "deutschepost",
+                "source_uri": "https://t.me/ccauth/91378dd0",
+                "total_leak_count": 25,
+                "total_leak_count_for_org": 1
+            }
+        ],
+        "unique_source_uri": [
+            "https://obamacash/obamacash_2023.txt",
+            "leak://obamacash_2023?file==9",
+            "https://t.me/ccauth/91378dd0"
+        ],
+        "year": 2023
+    },
+    {
+        "_id": "a06c434f27b0325ab8023b319429a659",
+        "brand": "ACME",
+        "card_expiry": "4/2022",
+        "card_number": "4632252002757990",
+        "card_number_formatted": "4632 - 2520 - 0275 - 7990",
+        "card_sources": "https://t.me/ccauth/62335323",
+        "cvv": "582",
+        "data_last_seen": "25-01-2024",
+        "first_seen": "2024-01-25T07:29:33.796405",
+        "is_expired": "True",
+        "last_seen": "2024-01-25T07:29:33.796405",
+        "luhn_check": true,
+        "matched_asset": "463225",
+        "member_id": 47,
+        "month": 4,
+        "source_count": 1,
+        "sources": [
+            {
+                "detection_date": "2024-01-25T07:29:33.796405",
+                "finding_snippet": "k>\nCard Type <card_type>\nProduct Type <product_type>\nCountry <issuer_country>\nTo scrape this channel use @TruSRC_Bot\nMade by N I C O and PARSEC ^_^ ❤️\n2024-01-22T09:38:00 CCAUTH wrote: MADE BY NICO AND PARSEC Join @Test123ND\n✅LIVE CC SCRAPPED (AUTH) 4632252002757990|04|22|582 ✔️\nResponse: Approved\nScheme <scheme>\nBIN <bin>\nBank <bank>\nCard Type <card_type>\nProduct Type <product_type>\nCountry <issuer_country>\nTo scrape this channel use @TruSRC_Bot\nMade by N I C O and PARSEC ^_^ ❤️\n2024-01-22T09:38:03 CCAUTH wrot",
+                "source": "deutschepost",
+                "source_uri": "https://t.me/ccauth/62335323",
+                "total_leak_count": 24,
+                "total_leak_count_for_org": 1
+            }
+        ],
+        "unique_source_uri": [
+            "https://t.me/ccauth/62335323"
+        ],
+        "year": 2022
+    }
+]
